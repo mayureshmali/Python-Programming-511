@@ -1,0 +1,945 @@
+cleaned-sonnets1.txt:45:Of his self-love to stop posterity?
+cleaned-sonnets1.txt:47:Calls back the lovely April of her prime;
+cleaned-sonnets1.txt:55:Unthrifty loveliness, why dost thou spend
+cleaned-sonnets1.txt:73:The lovely gaze where every eye doth dwell,
+cleaned-sonnets1.txt:153:  No love toward others in that bosom sits
+cleaned-sonnets1.txt:158:For shame! deny that thou bear'st love to any,
+cleaned-sonnets1.txt:167:Shall hate be fairer lodg'd than gentle love?
+cleaned-sonnets1.txt:170:  Make thee another self for love of me,
+cleaned-sonnets1.txt:209:O! that you were your self; but, love you are
+cleaned-sonnets1.txt:221:  O! none but unthrifts. Dear my love, you know,
+cleaned-sonnets1.txt:255:  And all in war with Time for love of you,
+cleaned-sonnets1.txt:295:Thou art more lovely and more temperate:
+cleaned-sonnets1.txt:319:O! carve not with thy hours my love's fair brow,
+cleaned-sonnets1.txt:324:  My love shall in my verse ever live young.
+cleaned-sonnets1.txt:341:  Mine be thy love and thy love's use their treasure.
+cleaned-sonnets1.txt:353:O! let me, true in love, but truly write,
+cleaned-sonnets1.txt:354:And then believe me, my love is as fair
+cleaned-sonnets1.txt:370:O! therefore love, be of thyself so wary
+cleaned-sonnets1.txt:384:The perfect ceremony of love's rite,
+cleaned-sonnets1.txt:385:And in mine own love's strength seem to decay,
+cleaned-sonnets1.txt:386:O'ercharg'd with burthen of mine own love's might.
+cleaned-sonnets1.txt:389:Who plead for love, and look for recompense,
+cleaned-sonnets1.txt:391:  O! learn to read what silent love hath writ:
+cleaned-sonnets1.txt:392:  To hear with eyes belongs to love's fine wit.
+cleaned-sonnets1.txt:425:  Then happy I, that love and am belov'd,
+cleaned-sonnets1.txt:430:Lord of my love, to whom in vassalage
+cleaned-sonnets1.txt:442:  Then may I dare to boast how I do love thee;
+cleaned-sonnets1.txt:493:  For thy sweet love remember'd such wealth brings
+cleaned-sonnets1.txt:504:And weep afresh love's long since cancell'd woe,
+cleaned-sonnets1.txt:520:Hath dear religious love stol'n from mine eye,
+cleaned-sonnets1.txt:523:Thou art the grave where buried love doth live,
+cleaned-sonnets1.txt:524:Hung with the trophies of my lovers gone,
+cleaned-sonnets1.txt:535:These poor rude lines of thy deceased lover,
+cleaned-sonnets1.txt:538:Reserve them for my love, not for their rhyme,
+cleaned-sonnets1.txt:542:A dearer birth than this his love had brought,
+cleaned-sonnets1.txt:545:  Theirs for their style I'll read, his for his love'.
+cleaned-sonnets1.txt:561:  Yet him for this my love no whit disdaineth;
+cleaned-sonnets1.txt:578:  Ah! but those tears are pearl which thy love sheds,
+cleaned-sonnets1.txt:594:Such civil war is in my love and hate,
+cleaned-sonnets1.txt:601:Although our undivided loves are one:
+cleaned-sonnets1.txt:604:In our two loves there is but one respect,
+cleaned-sonnets1.txt:606:Which though it alter not love's sole effect,
+cleaned-sonnets1.txt:607:Yet doth it steal sweet hours from love's delight.
+cleaned-sonnets1.txt:612:  But do not so, I love thee in such sort,
+cleaned-sonnets1.txt:624:I make my love engrafted, to this store:
+cleaned-sonnets1.txt:656:And our dear love lose name of single one,
+cleaned-sonnets1.txt:661:To entertain the time with thoughts of love,
+cleaned-sonnets1.txt:668:Take all my loves, my love, yea take them all;
+cleaned-sonnets1.txt:670:No love, my love, that thou mayst true love call;
+cleaned-sonnets1.txt:672:Then, if for my love, thou my love receivest,
+cleaned-sonnets1.txt:673:I cannot blame thee, for my love thou usest;
+cleaned-sonnets1.txt:678:And yet, love knows it is a greater grief
+cleaned-sonnets1.txt:679:To bear love's wrong, than hate's known injury.
+cleaned-sonnets1.txt:703:And yet it may be said I loved her dearly;
+cleaned-sonnets1.txt:705:A loss in love that touches me more nearly.
+cleaned-sonnets1.txt:707:Thou dost love her, because thou know'st I love her;
+cleaned-sonnets1.txt:710:If I lose thee, my loss is my love's gain,
+cleaned-sonnets1.txt:715:  Sweet flattery! then she loves but me alone.
+cleaned-sonnets1.txt:758:In tender embassy of love to thee,
+cleaned-sonnets1.txt:783:  And my heart's right, thy inward love of heart.
+cleaned-sonnets1.txt:790:Or heart in love with sighs himself doth smother,
+cleaned-sonnets1.txt:791:With my love's picture then my eye doth feast,
+cleaned-sonnets1.txt:794:And in his thoughts of love doth share a part:
+cleaned-sonnets1.txt:795:So, either by thy picture or my love,
+cleaned-sonnets1.txt:823:When as thy love hath cast his utmost sum,
+cleaned-sonnets1.txt:827:When love, converted from the thing it was,
+cleaned-sonnets1.txt:834:  Since why to love I can allege no cause.
+cleaned-sonnets1.txt:855:Thus can my love excuse the slow offence
+cleaned-sonnets1.txt:864:Therefore desire, of perfect'st love being made,
+cleaned-sonnets1.txt:866:But love, for love, thus shall excuse my jade,--
+cleaned-sonnets1.txt:918:  And so of you, beauteous and lovely youth,
+cleaned-sonnets1.txt:936:  You live in this, and dwell in lovers' eyes.
+cleaned-sonnets1.txt:940:Sweet love, renew thy force; be it not said
+cleaned-sonnets1.txt:944:So, love, be thou, although to-day thou fill
+cleaned-sonnets1.txt:947:The spirit of love, with a perpetual dulness.
+cleaned-sonnets1.txt:951:Return of love, more blest may be the view;
+cleaned-sonnets1.txt:969:  So true a fool is love, that in your will,
+cleaned-sonnets1.txt:1033:O, no! thy love, though much, is not so great:
+cleaned-sonnets1.txt:1034:It is my love that keeps mine eye awake:
+cleaned-sonnets1.txt:1035:Mine own true love that doth my rest defeat,
+cleaned-sonnets1.txt:1042:Sin of self-love possesseth all mine eye
+cleaned-sonnets1.txt:1052:Mine own self-love quite contrary I read;
+cleaned-sonnets1.txt:1059:Against my love shall be as I am now,
+cleaned-sonnets1.txt:1070:My sweet love's beauty, though my lover's life:
+cleaned-sonnets1.txt:1087:That Time will come and take my love away.
+cleaned-sonnets1.txt:1106:  That in black ink my love may still shine bright.
+cleaned-sonnets1.txt:1123:  Save that, to die, I leave my love alone.
+cleaned-sonnets1.txt:1184:For canker vice the sweetest buds doth love,
+cleaned-sonnets1.txt:1200:The hand that writ it, for I love you so,
+cleaned-sonnets1.txt:1206:But let your love even with my life decay;
+cleaned-sonnets1.txt:1213:What merit lived in me, that you should love
+cleaned-sonnets1.txt:1214:After my death,--dear love, forget me quite,
+cleaned-sonnets1.txt:1220:O! lest your true love may seem false in this
+cleaned-sonnets1.txt:1221:That you for love speak well of me untrue,
+cleaned-sonnets1.txt:1225:  And so should you, to love things nothing worth.
+cleaned-sonnets1.txt:1241:  This thou perceiv'st, which makes thy love more strong,
+cleaned-sonnets1.txt:1242:  To love that well, which thou must leave ere long.
+cleaned-sonnets1.txt:1288:O! know sweet love I always write of you,
+cleaned-sonnets1.txt:1289:And you and love are still my argument;
+cleaned-sonnets1.txt:1293:  So is my love still telling what is told.
+cleaned-sonnets1.txt:1335:I grant, sweet love, thy lovely argument
+cleaned-sonnets1.txt:1361:  The worst was this,--my love was my decay.
+cleaned-sonnets1.txt:1390:And do so, love; yet when they have devis'd,
+cleaned-sonnets1.txt:1443:But that is in my thought, whose love to you,
+cleaned-sonnets1.txt:1496:  Such is my love, to thee I so belong,
+cleaned-sonnets1.txt:1505:Thou canst not love disgrace me half so ill,
+cleaned-sonnets1.txt:1510:Thy sweet beloved name no more shall dwell,
+cleaned-sonnets1.txt:1514:  For I must ne'er love him whom thou dost hate.
+cleaned-sonnets1.txt:1543:Thy love is better than high birth to me,
+cleaned-sonnets1.txt:1554:And life no longer than thy love will stay,
+cleaned-sonnets1.txt:1555:For it depends upon that love of thine.
+cleaned-sonnets1.txt:1563:Happy to have thy love, happy to die!
+cleaned-sonnets1.txt:1570:Like a deceived husband; so love's face
+cleaned-sonnets1.txt:1571:May still seem love to me, though alter'd new;
+cleaned-sonnets1.txt:1578:That in thy face sweet love should ever dwell;
+cleaned-sonnets1.txt:1603:How sweet and lovely dost thou make the shame
+cleaned-sonnets1.txt:1632:  But do not so; I love thee in such sort,
+cleaned-sonnets1.txt:1673:If not from my love's breath? The purple pride
+cleaned-sonnets1.txt:1675:In my love's veins thou hast too grossly dy'd.
+cleaned-sonnets1.txt:1697:Rise, resty Muse, my love's sweet face survey,
+cleaned-sonnets1.txt:1701:  Give my love fame faster than Time wastes life,
+cleaned-sonnets1.txt:1708:Both truth and beauty on my love depends;
+cleaned-sonnets1.txt:1723:My love is strengthen'd, though more weak in seeming;
+cleaned-sonnets1.txt:1724:I love not less, though less the show appear;
+cleaned-sonnets1.txt:1725:That love is merchandiz'd, whose rich esteeming,
+cleaned-sonnets1.txt:1727:Our love was new, and then but in the spring,
+cleaned-sonnets1.txt:1774:Let not my love be call'd idolatry,
+cleaned-sonnets1.txt:1775:Nor my beloved as an idol show,
+cleaned-sonnets1.txt:1778:Kind is my love to-day, to-morrow kind,
+cleaned-sonnets1.txt:1794:In praise of ladies dead and lovely knights,
+cleaned-sonnets1.txt:1810:Can yet the lease of my true love control,
+cleaned-sonnets1.txt:1817:My love looks fresh, and Death to me subscribes,
+cleaned-sonnets1.txt:1828:That may express my love, or thy dear merit?
+cleaned-sonnets1.txt:1833:So that eternal love in love's fresh case,
+cleaned-sonnets1.txt:1837:  Finding the first conceit of love there bred,
+cleaned-sonnets1.txt:1846:That is my home of love: if I have rang'd,
+cleaned-sonnets1.txt:1866:And worse essays prov'd thee my best of love.
+cleaned-sonnets1.txt:1870:A god in love, to whom I am confin'd.
+cleaned-sonnets1.txt:1893:Your love and pity doth the impression fill,
+cleaned-sonnets1.txt:1930:And that your love taught it this alchemy,
+cleaned-sonnets1.txt:1940:  That mine eye loves it and doth first begin.
+cleaned-sonnets1.txt:1945:Even those that said I could not love you dearer:
+cleaned-sonnets1.txt:1953:Might I not then say, 'Now I love you best,'
+cleaned-sonnets1.txt:1962:Admit impediments. Love is not love
+cleaned-sonnets1.txt:1980:Forgot upon your dearest love to call,
+cleaned-sonnets1.txt:1991:  The constancy and virtue of your love.
+cleaned-sonnets1.txt:2003:Thus policy in love, to anticipate
+cleaned-sonnets1.txt:2022:And ruin'd love, when it is built anew,
+cleaned-sonnets1.txt:2072:Nor need I tallies thy dear love to score;
+cleaned-sonnets1.txt:2097:If my dear love were but the child of state,
+cleaned-sonnets1.txt:2099:As subject to Time's love or to Time's hate,
+cleaned-sonnets1.txt:2131:O thou, my lovely boy, who in thy power
+cleaned-sonnets1.txt:2134:Thy lovers withering, as thy sweet self grow'st.
+cleaned-sonnets1.txt:2205:I love to hear her speak, yet well I know
+cleaned-sonnets1.txt:2209:  And yet by heaven, I think my love as rare,
+cleaned-sonnets1.txt:2219:Thy face hath not the power to make love groan;
+cleaned-sonnets1.txt:2231:Thine eyes I love, and they, as pitying me,
+cleaned-sonnets1.txt:2302:Thus far for love, my love-suit, sweet, fulfil.
+cleaned-sonnets1.txt:2303:'Will', will fulfil the treasure of thy love,
+cleaned-sonnets1.txt:2311:  Make but my name thy love, and love that still,
+cleaned-sonnets1.txt:2333:When my love swears that she is made of truth,
+cleaned-sonnets1.txt:2343:O! love's best habit is in seeming trust,
+cleaned-sonnets1.txt:2344:And age in love, loves not to have years told:
+cleaned-sonnets1.txt:2358:Let me excuse thee: ah! my love well knows
+cleaned-sonnets1.txt:2373:Though not to love, yet, love to tell me so;--
+cleaned-sonnets1.txt:2385:In faith I do not love thee with mine eyes,
+cleaned-sonnets1.txt:2387:But 'tis my heart that loves what they despise,
+cleaned-sonnets1.txt:2408:And seal'd false bonds of love as oft as mine,
+cleaned-sonnets1.txt:2410:Be it lawful I love thee, as thou lov'st those
+cleaned-sonnets1.txt:2436:Two loves I have of comfort and despair,
+cleaned-sonnets1.txt:2487:My love is as a fever longing still,
+cleaned-sonnets1.txt:2491:My reason, the physician to my love,
+cleaned-sonnets1.txt:2510:If it be not, then love doth well denote
+cleaned-sonnets1.txt:2521:Canst thou, O cruel! say I love thee not,
+cleaned-sonnets1.txt:2533:  But, love, hate on, for now I know thy mind;
+cleaned-sonnets1.txt:2546:Who taught thee how to make me love thee more,
+cleaned-sonnets1.txt:2548:O! though I love what others do abhor,
+cleaned-sonnets1.txt:2550:  If thy unworthiness rais'd love in me,
+cleaned-sonnets1.txt:2556:Yet who knows not conscience is born of love?
+cleaned-sonnets1.txt:2562:Triumph in love; flesh stays no farther reason,
+cleaned-sonnets1.txt:2568:  Her 'love,' for whose dear love I rise and fall.
+cleaned-sonnets1.txt:2573:But thou art twice forsworn, to me love swearing;
+cleaned-sonnets1.txt:2575:In vowing new hate after new love bearing:
+cleaned-sonnets1.txt:2581:Oaths of thy love, thy truth, thy constancy;
+cleaned-sonnets1.txt:2591:And his love-kindling fire did quickly steep
+cleaned-sonnets1.txt:2619:  Love's fire heats water, water cools not love.
+cleaned_sonnets.txt:45:  Of his self-love to stop posterity?
+cleaned_sonnets.txt:47:  Calls back the lovely April of her prime;
+cleaned_sonnets.txt:55:  Unthrifty loveliness, why dost thou spend
+cleaned_sonnets.txt:73:  The lovely gaze where every eye doth dwell,
+cleaned_sonnets.txt:153:    No love toward others in that bosom sits
+cleaned_sonnets.txt:158:  For shame! deny that thou bear'st love to any,
+cleaned_sonnets.txt:167:  Shall hate be fairer lodg'd than gentle love?
+cleaned_sonnets.txt:170:    Make thee another self for love of me,
+cleaned_sonnets.txt:209:  O! that you were your self; but, love you are
+cleaned_sonnets.txt:221:    O! none but unthrifts. Dear my love, you know,
+cleaned_sonnets.txt:255:    And all in war with Time for love of you,
+cleaned_sonnets.txt:295:  Thou art more lovely and more temperate:
+cleaned_sonnets.txt:319:  O! carve not with thy hours my love's fair brow,
+cleaned_sonnets.txt:324:    My love shall in my verse ever live young.
+cleaned_sonnets.txt:341:    Mine be thy love and thy love's use their treasure.
+cleaned_sonnets.txt:353:  O! let me, true in love, but truly write,
+cleaned_sonnets.txt:354:  And then believe me, my love is as fair
+cleaned_sonnets.txt:370:  O! therefore love, be of thyself so wary
+cleaned_sonnets.txt:384:  The perfect ceremony of love's rite,
+cleaned_sonnets.txt:385:  And in mine own love's strength seem to decay,
+cleaned_sonnets.txt:386:  O'ercharg'd with burthen of mine own love's might.
+cleaned_sonnets.txt:389:  Who plead for love, and look for recompense,
+cleaned_sonnets.txt:391:    O! learn to read what silent love hath writ:
+cleaned_sonnets.txt:392:    To hear with eyes belongs to love's fine wit.
+cleaned_sonnets.txt:425:    Then happy I, that love and am belov'd,
+cleaned_sonnets.txt:430:  Lord of my love, to whom in vassalage
+cleaned_sonnets.txt:442:    Then may I dare to boast how I do love thee;
+cleaned_sonnets.txt:493:    For thy sweet love remember'd such wealth brings
+cleaned_sonnets.txt:504:  And weep afresh love's long since cancell'd woe,
+cleaned_sonnets.txt:520:  Hath dear religious love stol'n from mine eye,
+cleaned_sonnets.txt:523:  Thou art the grave where buried love doth live,
+cleaned_sonnets.txt:524:  Hung with the trophies of my lovers gone,
+cleaned_sonnets.txt:535:  These poor rude lines of thy deceased lover,
+cleaned_sonnets.txt:538:  Reserve them for my love, not for their rhyme,
+cleaned_sonnets.txt:542:  A dearer birth than this his love had brought,
+cleaned_sonnets.txt:545:    Theirs for their style I'll read, his for his love'.
+cleaned_sonnets.txt:561:    Yet him for this my love no whit disdaineth;
+cleaned_sonnets.txt:578:    Ah! but those tears are pearl which thy love sheds,
+cleaned_sonnets.txt:594:  Such civil war is in my love and hate,
+cleaned_sonnets.txt:601:  Although our undivided loves are one:
+cleaned_sonnets.txt:604:  In our two loves there is but one respect,
+cleaned_sonnets.txt:606:  Which though it alter not love's sole effect,
+cleaned_sonnets.txt:607:  Yet doth it steal sweet hours from love's delight.
+cleaned_sonnets.txt:612:    But do not so, I love thee in such sort,
+cleaned_sonnets.txt:624:  I make my love engrafted, to this store:
+cleaned_sonnets.txt:656:  And our dear love lose name of single one,
+cleaned_sonnets.txt:661:  To entertain the time with thoughts of love,
+cleaned_sonnets.txt:668:  Take all my loves, my love, yea take them all;
+cleaned_sonnets.txt:670:  No love, my love, that thou mayst true love call;
+cleaned_sonnets.txt:672:  Then, if for my love, thou my love receivest,
+cleaned_sonnets.txt:673:  I cannot blame thee, for my love thou usest;
+cleaned_sonnets.txt:678:  And yet, love knows it is a greater grief
+cleaned_sonnets.txt:679:  To bear love's wrong, than hate's known injury.
+cleaned_sonnets.txt:703:  And yet it may be said I loved her dearly;
+cleaned_sonnets.txt:705:  A loss in love that touches me more nearly.
+cleaned_sonnets.txt:707:  Thou dost love her, because thou know'st I love her;
+cleaned_sonnets.txt:710:  If I lose thee, my loss is my love's gain,
+cleaned_sonnets.txt:715:    Sweet flattery! then she loves but me alone.
+cleaned_sonnets.txt:758:  In tender embassy of love to thee,
+cleaned_sonnets.txt:783:    And my heart's right, thy inward love of heart.
+cleaned_sonnets.txt:790:  Or heart in love with sighs himself doth smother,
+cleaned_sonnets.txt:791:  With my love's picture then my eye doth feast,
+cleaned_sonnets.txt:794:  And in his thoughts of love doth share a part:
+cleaned_sonnets.txt:795:  So, either by thy picture or my love,
+cleaned_sonnets.txt:823:  When as thy love hath cast his utmost sum,
+cleaned_sonnets.txt:827:  When love, converted from the thing it was,
+cleaned_sonnets.txt:834:    Since why to love I can allege no cause.
+cleaned_sonnets.txt:855:  Thus can my love excuse the slow offence
+cleaned_sonnets.txt:864:  Therefore desire, of perfect'st love being made,
+cleaned_sonnets.txt:866:  But love, for love, thus shall excuse my jade,--
+cleaned_sonnets.txt:918:    And so of you, beauteous and lovely youth,
+cleaned_sonnets.txt:936:    You live in this, and dwell in lovers' eyes.
+cleaned_sonnets.txt:940:  Sweet love, renew thy force; be it not said
+cleaned_sonnets.txt:944:  So, love, be thou, although to-day thou fill
+cleaned_sonnets.txt:947:  The spirit of love, with a perpetual dulness.
+cleaned_sonnets.txt:951:  Return of love, more blest may be the view;
+cleaned_sonnets.txt:969:    So true a fool is love, that in your will,
+cleaned_sonnets.txt:1033:  O, no! thy love, though much, is not so great:
+cleaned_sonnets.txt:1034:  It is my love that keeps mine eye awake:
+cleaned_sonnets.txt:1035:  Mine own true love that doth my rest defeat,
+cleaned_sonnets.txt:1042:  Sin of self-love possesseth all mine eye
+cleaned_sonnets.txt:1052:  Mine own self-love quite contrary I read;
+cleaned_sonnets.txt:1059:  Against my love shall be as I am now,
+cleaned_sonnets.txt:1070:  My sweet love's beauty, though my lover's life:
+cleaned_sonnets.txt:1087:  That Time will come and take my love away.
+cleaned_sonnets.txt:1106:    That in black ink my love may still shine bright.
+cleaned_sonnets.txt:1123:    Save that, to die, I leave my love alone.
+cleaned_sonnets.txt:1184:  For canker vice the sweetest buds doth love,
+cleaned_sonnets.txt:1200:  The hand that writ it, for I love you so,
+cleaned_sonnets.txt:1206:  But let your love even with my life decay;
+cleaned_sonnets.txt:1213:  What merit lived in me, that you should love
+cleaned_sonnets.txt:1214:  After my death,--dear love, forget me quite,
+cleaned_sonnets.txt:1220:  O! lest your true love may seem false in this
+cleaned_sonnets.txt:1221:  That you for love speak well of me untrue,
+cleaned_sonnets.txt:1225:    And so should you, to love things nothing worth.
+cleaned_sonnets.txt:1241:    This thou perceiv'st, which makes thy love more strong,
+cleaned_sonnets.txt:1242:    To love that well, which thou must leave ere long.
+cleaned_sonnets.txt:1288:  O! know sweet love I always write of you,
+cleaned_sonnets.txt:1289:  And you and love are still my argument;
+cleaned_sonnets.txt:1293:    So is my love still telling what is told.
+cleaned_sonnets.txt:1335:  I grant, sweet love, thy lovely argument
+cleaned_sonnets.txt:1361:    The worst was this,--my love was my decay.
+cleaned_sonnets.txt:1390:  And do so, love; yet when they have devis'd,
+cleaned_sonnets.txt:1443:  But that is in my thought, whose love to you,
+cleaned_sonnets.txt:1496:    Such is my love, to thee I so belong,
+cleaned_sonnets.txt:1505:  Thou canst not love disgrace me half so ill,
+cleaned_sonnets.txt:1510:  Thy sweet beloved name no more shall dwell,
+cleaned_sonnets.txt:1514:    For I must ne'er love him whom thou dost hate.
+cleaned_sonnets.txt:1543:  Thy love is better than high birth to me,
+cleaned_sonnets.txt:1554:  And life no longer than thy love will stay,
+cleaned_sonnets.txt:1555:  For it depends upon that love of thine.
+cleaned_sonnets.txt:1563:  Happy to have thy love, happy to die!
+cleaned_sonnets.txt:1570:  Like a deceived husband; so love's face
+cleaned_sonnets.txt:1571:  May still seem love to me, though alter'd new;
+cleaned_sonnets.txt:1578:  That in thy face sweet love should ever dwell;
+cleaned_sonnets.txt:1603:  How sweet and lovely dost thou make the shame
+cleaned_sonnets.txt:1632:    But do not so; I love thee in such sort,
+cleaned_sonnets.txt:1673:  If not from my love's breath? The purple pride
+cleaned_sonnets.txt:1675:  In my love's veins thou hast too grossly dy'd.
+cleaned_sonnets.txt:1697:  Rise, resty Muse, my love's sweet face survey,
+cleaned_sonnets.txt:1701:    Give my love fame faster than Time wastes life,
+cleaned_sonnets.txt:1708:  Both truth and beauty on my love depends;
+cleaned_sonnets.txt:1723:  My love is strengthen'd, though more weak in seeming;
+cleaned_sonnets.txt:1724:  I love not less, though less the show appear;
+cleaned_sonnets.txt:1725:  That love is merchandiz'd, whose rich esteeming,
+cleaned_sonnets.txt:1727:  Our love was new, and then but in the spring,
+cleaned_sonnets.txt:1774:  Let not my love be call'd idolatry,
+cleaned_sonnets.txt:1775:  Nor my beloved as an idol show,
+cleaned_sonnets.txt:1778:  Kind is my love to-day, to-morrow kind,
+cleaned_sonnets.txt:1794:  In praise of ladies dead and lovely knights,
+cleaned_sonnets.txt:1810:  Can yet the lease of my true love control,
+cleaned_sonnets.txt:1817:  My love looks fresh, and Death to me subscribes,
+cleaned_sonnets.txt:1828:  That may express my love, or thy dear merit?
+cleaned_sonnets.txt:1833:  So that eternal love in love's fresh case,
+cleaned_sonnets.txt:1837:    Finding the first conceit of love there bred,
+cleaned_sonnets.txt:1846:  That is my home of love: if I have rang'd,
+cleaned_sonnets.txt:1866:  And worse essays prov'd thee my best of love.
+cleaned_sonnets.txt:1870:  A god in love, to whom I am confin'd.
+cleaned_sonnets.txt:1893:  Your love and pity doth the impression fill,
+cleaned_sonnets.txt:1930:  And that your love taught it this alchemy,
+cleaned_sonnets.txt:1940:    That mine eye loves it and doth first begin.
+cleaned_sonnets.txt:1945:  Even those that said I could not love you dearer:
+cleaned_sonnets.txt:1953:  Might I not then say, 'Now I love you best,'
+cleaned_sonnets.txt:1962:  Admit impediments. Love is not love
+cleaned_sonnets.txt:1980:  Forgot upon your dearest love to call,
+cleaned_sonnets.txt:1991:    The constancy and virtue of your love.
+cleaned_sonnets.txt:2003:  Thus policy in love, to anticipate
+cleaned_sonnets.txt:2022:  And ruin'd love, when it is built anew,
+cleaned_sonnets.txt:2072:  Nor need I tallies thy dear love to score;
+cleaned_sonnets.txt:2097:  If my dear love were but the child of state,
+cleaned_sonnets.txt:2099:  As subject to Time's love or to Time's hate,
+cleaned_sonnets.txt:2131:  O thou, my lovely boy, who in thy power
+cleaned_sonnets.txt:2134:  Thy lovers withering, as thy sweet self grow'st.
+cleaned_sonnets.txt:2205:  I love to hear her speak, yet well I know
+cleaned_sonnets.txt:2209:    And yet by heaven, I think my love as rare,
+cleaned_sonnets.txt:2219:  Thy face hath not the power to make love groan;
+cleaned_sonnets.txt:2231:  Thine eyes I love, and they, as pitying me,
+cleaned_sonnets.txt:2302:  Thus far for love, my love-suit, sweet, fulfil.
+cleaned_sonnets.txt:2303:  'Will', will fulfil the treasure of thy love,
+cleaned_sonnets.txt:2311:    Make but my name thy love, and love that still,
+cleaned_sonnets.txt:2333:  When my love swears that she is made of truth,
+cleaned_sonnets.txt:2343:  O! love's best habit is in seeming trust,
+cleaned_sonnets.txt:2344:  And age in love, loves not to have years told:
+cleaned_sonnets.txt:2358:  Let me excuse thee: ah! my love well knows
+cleaned_sonnets.txt:2373:  Though not to love, yet, love to tell me so;--
+cleaned_sonnets.txt:2385:  In faith I do not love thee with mine eyes,
+cleaned_sonnets.txt:2387:  But 'tis my heart that loves what they despise,
+cleaned_sonnets.txt:2408:  And seal'd false bonds of love as oft as mine,
+cleaned_sonnets.txt:2410:  Be it lawful I love thee, as thou lov'st those
+cleaned_sonnets.txt:2436:  Two loves I have of comfort and despair,
+cleaned_sonnets.txt:2487:  My love is as a fever longing still,
+cleaned_sonnets.txt:2491:  My reason, the physician to my love,
+cleaned_sonnets.txt:2510:  If it be not, then love doth well denote
+cleaned_sonnets.txt:2521:  Canst thou, O cruel! say I love thee not,
+cleaned_sonnets.txt:2533:    But, love, hate on, for now I know thy mind;
+cleaned_sonnets.txt:2546:  Who taught thee how to make me love thee more,
+cleaned_sonnets.txt:2548:  O! though I love what others do abhor,
+cleaned_sonnets.txt:2550:    If thy unworthiness rais'd love in me,
+cleaned_sonnets.txt:2556:  Yet who knows not conscience is born of love?
+cleaned_sonnets.txt:2562:  Triumph in love; flesh stays no farther reason,
+cleaned_sonnets.txt:2568:    Her 'love,' for whose dear love I rise and fall.
+cleaned_sonnets.txt:2573:  But thou art twice forsworn, to me love swearing;
+cleaned_sonnets.txt:2575:  In vowing new hate after new love bearing:
+cleaned_sonnets.txt:2581:  Oaths of thy love, thy truth, thy constancy;
+cleaned_sonnets.txt:2591:  And his love-kindling fire did quickly steep
+cleaned_sonnets.txt:2619:    Love's fire heats water, water cools not love.
+cleaned_sonnets2.txt:44:Of his self-love to stop posterity?
+cleaned_sonnets2.txt:46:Calls back the lovely April of her prime;
+cleaned_sonnets2.txt:54:Unthrifty loveliness, why dost thou spend
+cleaned_sonnets2.txt:72:The lovely gaze where every eye doth dwell,
+cleaned_sonnets3.txt:67:  No love toward others in that bosom sits
+cleaned_sonnets3.txt:72:For shame! deny that thou bear'st love to any,
+cleaned_sonnets3.txt:81:Shall hate be fairer lodg'd than gentle love?
+cleaned_sonnets3.txt:84:  Make thee another self for love of me,
+cleaned_sonnets3.txt:123:O! that you were your self; but, love you are
+cleaned_sonnets3.txt:135:  O! none but unthrifts. Dear my love, you know,
+cleaned_sonnets3.txt:169:  And all in war with Time for love of you,
+cleaned_sonnets3.txt:209:Thou art more lovely and more temperate:
+cleaned_sonnets3.txt:233:O! carve not with thy hours my love's fair brow,
+cleaned_sonnets3.txt:238:  My love shall in my verse ever live young.
+cleaned_sonnets3.txt:255:  Mine be thy love and thy love's use their treasure.
+cleaned_sonnets3.txt:267:O! let me, true in love, but truly write,
+cleaned_sonnets3.txt:268:And then believe me, my love is as fair
+cleaned_sonnets3.txt:284:O! therefore love, be of thyself so wary
+cleaned_sonnets3.txt:298:The perfect ceremony of love's rite,
+cleaned_sonnets3.txt:299:And in mine own love's strength seem to decay,
+cleaned_sonnets3.txt:300:O'ercharg'd with burthen of mine own love's might.
+cleaned_sonnets3.txt:303:Who plead for love, and look for recompense,
+cleaned_sonnets3.txt:305:  O! learn to read what silent love hath writ:
+cleaned_sonnets3.txt:306:  To hear with eyes belongs to love's fine wit.
+cleaned_sonnets3.txt:339:  Then happy I, that love and am belov'd,
+cleaned_sonnets3.txt:344:Lord of my love, to whom in vassalage
+cleaned_sonnets3.txt:356:  Then may I dare to boast how I do love thee;
+cleaned_sonnets3.txt:407:  For thy sweet love remember'd such wealth brings
+cleaned_sonnets3.txt:418:And weep afresh love's long since cancell'd woe,
+cleaned_sonnets3.txt:434:Hath dear religious love stol'n from mine eye,
+cleaned_sonnets3.txt:437:Thou art the grave where buried love doth live,
+cleaned_sonnets3.txt:438:Hung with the trophies of my lovers gone,
+cleaned_sonnets3.txt:449:These poor rude lines of thy deceased lover,
+cleaned_sonnets3.txt:452:Reserve them for my love, not for their rhyme,
+cleaned_sonnets3.txt:456:A dearer birth than this his love had brought,
+cleaned_sonnets3.txt:459:  Theirs for their style I'll read, his for his love'.
+cleaned_sonnets3.txt:475:  Yet him for this my love no whit disdaineth;
+cleaned_sonnets3.txt:492:  Ah! but those tears are pearl which thy love sheds,
+cleaned_sonnets3.txt:508:Such civil war is in my love and hate,
+cleaned_sonnets3.txt:515:Although our undivided loves are one:
+cleaned_sonnets3.txt:518:In our two loves there is but one respect,
+cleaned_sonnets3.txt:520:Which though it alter not love's sole effect,
+cleaned_sonnets3.txt:521:Yet doth it steal sweet hours from love's delight.
+cleaned_sonnets3.txt:526:  But do not so, I love thee in such sort,
+cleaned_sonnets3.txt:538:I make my love engrafted, to this store:
+cleaned_sonnets3.txt:570:And our dear love lose name of single one,
+cleaned_sonnets3.txt:575:To entertain the time with thoughts of love,
+cleaned_sonnets3.txt:582:Take all my loves, my love, yea take them all;
+cleaned_sonnets3.txt:584:No love, my love, that thou mayst true love call;
+cleaned_sonnets3.txt:586:Then, if for my love, thou my love receivest,
+cleaned_sonnets3.txt:587:I cannot blame thee, for my love thou usest;
+cleaned_sonnets3.txt:592:And yet, love knows it is a greater grief
+cleaned_sonnets3.txt:593:To bear love's wrong, than hate's known injury.
+cleaned_sonnets3.txt:617:And yet it may be said I loved her dearly;
+cleaned_sonnets3.txt:619:A loss in love that touches me more nearly.
+cleaned_sonnets3.txt:621:Thou dost love her, because thou know'st I love her;
+cleaned_sonnets3.txt:624:If I lose thee, my loss is my love's gain,
+cleaned_sonnets3.txt:629:  Sweet flattery! then she loves but me alone.
+cleaned_sonnets3.txt:672:In tender embassy of love to thee,
+cleaned_sonnets3.txt:697:  And my heart's right, thy inward love of heart.
+cleaned_sonnets3.txt:704:Or heart in love with sighs himself doth smother,
+cleaned_sonnets3.txt:705:With my love's picture then my eye doth feast,
+cleaned_sonnets3.txt:708:And in his thoughts of love doth share a part:
+cleaned_sonnets3.txt:709:So, either by thy picture or my love,
+cleaned_sonnets3.txt:737:When as thy love hath cast his utmost sum,
+cleaned_sonnets3.txt:741:When love, converted from the thing it was,
+cleaned_sonnets3.txt:748:  Since why to love I can allege no cause.
+cleaned_sonnets3.txt:769:Thus can my love excuse the slow offence
+cleaned_sonnets3.txt:778:Therefore desire, of perfect'st love being made,
+cleaned_sonnets3.txt:780:But love, for love, thus shall excuse my jade,--
+cleaned_sonnets3.txt:832:  And so of you, beauteous and lovely youth,
+cleaned_sonnets3.txt:850:  You live in this, and dwell in lovers' eyes.
+cleaned_sonnets3.txt:854:Sweet love, renew thy force; be it not said
+cleaned_sonnets3.txt:858:So, love, be thou, although to-day thou fill
+cleaned_sonnets3.txt:861:The spirit of love, with a perpetual dulness.
+cleaned_sonnets3.txt:865:Return of love, more blest may be the view;
+cleaned_sonnets3.txt:883:  So true a fool is love, that in your will,
+cleaned_sonnets3.txt:947:O, no! thy love, though much, is not so great:
+cleaned_sonnets3.txt:948:It is my love that keeps mine eye awake:
+cleaned_sonnets3.txt:949:Mine own true love that doth my rest defeat,
+cleaned_sonnets3.txt:956:Sin of self-love possesseth all mine eye
+cleaned_sonnets3.txt:966:Mine own self-love quite contrary I read;
+cleaned_sonnets3.txt:973:Against my love shall be as I am now,
+cleaned_sonnets3.txt:984:My sweet love's beauty, though my lover's life:
+cleaned_sonnets3.txt:1001:That Time will come and take my love away.
+cleaned_sonnets3.txt:1020:  That in black ink my love may still shine bright.
+cleaned_sonnets3.txt:1037:  Save that, to die, I leave my love alone.
+cleaned_sonnets3.txt:1098:For canker vice the sweetest buds doth love,
+cleaned_sonnets3.txt:1114:The hand that writ it, for I love you so,
+cleaned_sonnets3.txt:1120:But let your love even with my life decay;
+cleaned_sonnets3.txt:1127:What merit lived in me, that you should love
+cleaned_sonnets3.txt:1128:After my death,--dear love, forget me quite,
+cleaned_sonnets3.txt:1134:O! lest your true love may seem false in this
+cleaned_sonnets3.txt:1135:That you for love speak well of me untrue,
+cleaned_sonnets3.txt:1139:  And so should you, to love things nothing worth.
+cleaned_sonnets3.txt:1155:  This thou perceiv'st, which makes thy love more strong,
+cleaned_sonnets3.txt:1156:  To love that well, which thou must leave ere long.
+cleaned_sonnets3.txt:1202:O! know sweet love I always write of you,
+cleaned_sonnets3.txt:1203:And you and love are still my argument;
+cleaned_sonnets3.txt:1207:  So is my love still telling what is told.
+cleaned_sonnets3.txt:1249:I grant, sweet love, thy lovely argument
+cleaned_sonnets3.txt:1275:  The worst was this,--my love was my decay.
+cleaned_sonnets3.txt:1304:And do so, love; yet when they have devis'd,
+cleaned_sonnets3.txt:1357:But that is in my thought, whose love to you,
+cleaned_sonnets3.txt:1410:  Such is my love, to thee I so belong,
+cleaned_sonnets3.txt:1419:Thou canst not love disgrace me half so ill,
+cleaned_sonnets3.txt:1424:Thy sweet beloved name no more shall dwell,
+cleaned_sonnets3.txt:1428:  For I must ne'er love him whom thou dost hate.
+cleaned_sonnets3.txt:1457:Thy love is better than high birth to me,
+cleaned_sonnets3.txt:1468:And life no longer than thy love will stay,
+cleaned_sonnets3.txt:1469:For it depends upon that love of thine.
+cleaned_sonnets3.txt:1477:Happy to have thy love, happy to die!
+cleaned_sonnets3.txt:1484:Like a deceived husband; so love's face
+cleaned_sonnets3.txt:1485:May still seem love to me, though alter'd new;
+cleaned_sonnets3.txt:1492:That in thy face sweet love should ever dwell;
+cleaned_sonnets3.txt:1517:How sweet and lovely dost thou make the shame
+cleaned_sonnets3.txt:1546:  But do not so; I love thee in such sort,
+cleaned_sonnets4.txt:5:If not from my love's breath? The purple pride
+cleaned_sonnets4.txt:7:In my love's veins thou hast too grossly dy'd.
+cleaned_sonnets5.txt:11:Rise, resty Muse, my love's sweet face survey,
+cleaned_sonnets5.txt:15:  Give my love fame faster than Time wastes life,
+cleaned_sonnets5.txt:22:Both truth and beauty on my love depends;
+cleaned_sonnets5.txt:37:My love is strengthen'd, though more weak in seeming;
+cleaned_sonnets5.txt:38:I love not less, though less the show appear;
+cleaned_sonnets5.txt:39:That love is merchandiz'd, whose rich esteeming,
+cleaned_sonnets5.txt:41:Our love was new, and then but in the spring,
+cleaned_sonnets5.txt:88:Let not my love be call'd idolatry,
+cleaned_sonnets5.txt:89:Nor my beloved as an idol show,
+cleaned_sonnets5.txt:92:Kind is my love to-day, to-morrow kind,
+cleaned_sonnets5.txt:108:In praise of ladies dead and lovely knights,
+cleaned_sonnets5.txt:124:Can yet the lease of my true love control,
+cleaned_sonnets5.txt:131:My love looks fresh, and Death to me subscribes,
+cleaned_sonnets5.txt:142:That may express my love, or thy dear merit?
+cleaned_sonnets5.txt:147:So that eternal love in love's fresh case,
+cleaned_sonnets5.txt:151:  Finding the first conceit of love there bred,
+cleaned_sonnets5.txt:160:That is my home of love: if I have rang'd,
+cleaned_sonnets5.txt:180:And worse essays prov'd thee my best of love.
+cleaned_sonnets5.txt:184:A god in love, to whom I am confin'd.
+cleaned_sonnets5.txt:207:Your love and pity doth the impression fill,
+cleaned_sonnets5.txt:244:And that your love taught it this alchemy,
+cleaned_sonnets5.txt:254:  That mine eye loves it and doth first begin.
+cleaned_sonnets5.txt:259:Even those that said I could not love you dearer:
+cleaned_sonnets5.txt:267:Might I not then say, 'Now I love you best,'
+cleaned_sonnets5.txt:276:Admit impediments. Love is not love
+cleaned_sonnets5.txt:294:Forgot upon your dearest love to call,
+cleaned_sonnets5.txt:305:  The constancy and virtue of your love.
+cleaned_sonnets5.txt:317:Thus policy in love, to anticipate
+cleaned_sonnets5.txt:336:And ruin'd love, when it is built anew,
+cleaned_sonnets5.txt:386:Nor need I tallies thy dear love to score;
+cleaned_sonnets5.txt:411:If my dear love were but the child of state,
+cleaned_sonnets5.txt:413:As subject to Time's love or to Time's hate,
+cleaned_sonnets6.txt:3:O thou, my lovely boy, who in thy power
+cleaned_sonnets6.txt:6:Thy lovers withering, as thy sweet self grow'st.
+cleaned_sonnets7.txt:62:I love to hear her speak, yet well I know
+cleaned_sonnets7.txt:66:  And yet by heaven, I think my love as rare,
+cleaned_sonnets7.txt:76:Thy face hath not the power to make love groan;
+cleaned_sonnets7.txt:88:Thine eyes I love, and they, as pitying me,
+cleaned_sonnets7.txt:159:Thus far for love, my love-suit, sweet, fulfil.
+cleaned_sonnets7.txt:160:'Will', will fulfil the treasure of thy love,
+cleaned_sonnets7.txt:168:  Make but my name thy love, and love that still,
+cleaned_sonnets7.txt:190:When my love swears that she is made of truth,
+cleaned_sonnets7.txt:200:O! love's best habit is in seeming trust,
+cleaned_sonnets7.txt:201:And age in love, loves not to have years told:
+cleaned_sonnets7.txt:215:Let me excuse thee: ah! my love well knows
+cleaned_sonnets8.txt:9:Though not to love, yet, love to tell me so;--
+cleaned_sonnets8.txt:21:In faith I do not love thee with mine eyes,
+cleaned_sonnets8.txt:23:But 'tis my heart that loves what they despise,
+cleaned_sonnets8.txt:44:And seal'd false bonds of love as oft as mine,
+cleaned_sonnets8.txt:46:Be it lawful I love thee, as thou lov'st those
+cleaned_sonnets8.txt:72:Two loves I have of comfort and despair,
+cleaned_sonnets8.txt:123:My love is as a fever longing still,
+cleaned_sonnets8.txt:127:My reason, the physician to my love,
+cleaned_sonnets8.txt:146:If it be not, then love doth well denote
+cleaned_sonnets8.txt:157:Canst thou, O cruel! say I love thee not,
+cleaned_sonnets8.txt:169:  But, love, hate on, for now I know thy mind;
+cleaned_sonnets8.txt:182:Who taught thee how to make me love thee more,
+cleaned_sonnets8.txt:184:O! though I love what others do abhor,
+cleaned_sonnets8.txt:186:  If thy unworthiness rais'd love in me,
+cleaned_sonnets8.txt:192:Yet who knows not conscience is born of love?
+cleaned_sonnets8.txt:198:Triumph in love; flesh stays no farther reason,
+cleaned_sonnets8.txt:204:  Her 'love,' for whose dear love I rise and fall.
+cleaned_sonnets8.txt:209:But thou art twice forsworn, to me love swearing;
+cleaned_sonnets8.txt:211:In vowing new hate after new love bearing:
+cleaned_sonnets8.txt:217:Oaths of thy love, thy truth, thy constancy;
+cleaned_sonnets8.txt:227:And his love-kindling fire did quickly steep
+cleaned_sonnets8.txt:255:  Love's fire heats water, water cools not love.
+sonnets.txt:87:  Of his self-love to stop posterity?
+sonnets.txt:89:  Calls back the lovely April of her prime;
+sonnets.txt:97:  Unthrifty loveliness, why dost thou spend
+sonnets.txt:115:  The lovely gaze where every eye doth dwell,
+sonnets.txt:195:    No love toward others in that bosom sits
+sonnets.txt:200:  For shame! deny that thou bear'st love to any,
+sonnets.txt:209:  Shall hate be fairer lodg'd than gentle love?
+sonnets.txt:212:    Make thee another self for love of me,
+sonnets.txt:251:  O! that you were your self; but, love you are
+sonnets.txt:263:    O! none but unthrifts. Dear my love, you know,
+sonnets.txt:297:    And all in war with Time for love of you,
+sonnets.txt:337:  Thou art more lovely and more temperate:
+sonnets.txt:361:  O! carve not with thy hours my love's fair brow,
+sonnets.txt:366:    My love shall in my verse ever live young.
+sonnets.txt:383:    Mine be thy love and thy love's use their treasure.
+sonnets.txt:395:  O! let me, true in love, but truly write,
+sonnets.txt:396:  And then believe me, my love is as fair
+sonnets.txt:412:  O! therefore love, be of thyself so wary
+sonnets.txt:426:  The perfect ceremony of love's rite,
+sonnets.txt:427:  And in mine own love's strength seem to decay,
+sonnets.txt:428:  O'ercharg'd with burthen of mine own love's might.
+sonnets.txt:431:  Who plead for love, and look for recompense,
+sonnets.txt:433:    O! learn to read what silent love hath writ:
+sonnets.txt:434:    To hear with eyes belongs to love's fine wit.
+sonnets.txt:467:    Then happy I, that love and am belov'd,
+sonnets.txt:472:  Lord of my love, to whom in vassalage
+sonnets.txt:484:    Then may I dare to boast how I do love thee;
+sonnets.txt:535:    For thy sweet love remember'd such wealth brings
+sonnets.txt:546:  And weep afresh love's long since cancell'd woe,
+sonnets.txt:562:  Hath dear religious love stol'n from mine eye,
+sonnets.txt:565:  Thou art the grave where buried love doth live,
+sonnets.txt:566:  Hung with the trophies of my lovers gone,
+sonnets.txt:577:  These poor rude lines of thy deceased lover,
+sonnets.txt:580:  Reserve them for my love, not for their rhyme,
+sonnets.txt:584:  A dearer birth than this his love had brought,
+sonnets.txt:587:    Theirs for their style I'll read, his for his love'.
+sonnets.txt:603:    Yet him for this my love no whit disdaineth;
+sonnets.txt:620:    Ah! but those tears are pearl which thy love sheds,
+sonnets.txt:636:  Such civil war is in my love and hate,
+sonnets.txt:643:  Although our undivided loves are one:
+sonnets.txt:646:  In our two loves there is but one respect,
+sonnets.txt:648:  Which though it alter not love's sole effect,
+sonnets.txt:649:  Yet doth it steal sweet hours from love's delight.
+sonnets.txt:654:    But do not so, I love thee in such sort,
+sonnets.txt:666:  I make my love engrafted, to this store:
+sonnets.txt:698:  And our dear love lose name of single one,
+sonnets.txt:703:  To entertain the time with thoughts of love,
+sonnets.txt:710:  Take all my loves, my love, yea take them all;
+sonnets.txt:712:  No love, my love, that thou mayst true love call;
+sonnets.txt:714:  Then, if for my love, thou my love receivest,
+sonnets.txt:715:  I cannot blame thee, for my love thou usest;
+sonnets.txt:720:  And yet, love knows it is a greater grief
+sonnets.txt:721:  To bear love's wrong, than hate's known injury.
+sonnets.txt:745:  And yet it may be said I loved her dearly;
+sonnets.txt:747:  A loss in love that touches me more nearly.
+sonnets.txt:749:  Thou dost love her, because thou know'st I love her;
+sonnets.txt:752:  If I lose thee, my loss is my love's gain,
+sonnets.txt:757:    Sweet flattery! then she loves but me alone.
+sonnets.txt:800:  In tender embassy of love to thee,
+sonnets.txt:825:    And my heart's right, thy inward love of heart.
+sonnets.txt:832:  Or heart in love with sighs himself doth smother,
+sonnets.txt:833:  With my love's picture then my eye doth feast,
+sonnets.txt:836:  And in his thoughts of love doth share a part:
+sonnets.txt:837:  So, either by thy picture or my love,
+sonnets.txt:865:  When as thy love hath cast his utmost sum,
+sonnets.txt:869:  When love, converted from the thing it was,
+sonnets.txt:876:    Since why to love I can allege no cause.
+sonnets.txt:897:  Thus can my love excuse the slow offence
+sonnets.txt:906:  Therefore desire, of perfect'st love being made,
+sonnets.txt:908:  But love, for love, thus shall excuse my jade,--
+sonnets.txt:960:    And so of you, beauteous and lovely youth,
+sonnets.txt:978:    You live in this, and dwell in lovers' eyes.
+sonnets.txt:982:  Sweet love, renew thy force; be it not said
+sonnets.txt:986:  So, love, be thou, although to-day thou fill
+sonnets.txt:989:  The spirit of love, with a perpetual dulness.
+sonnets.txt:993:  Return of love, more blest may be the view;
+sonnets.txt:1011:    So true a fool is love, that in your will,
+sonnets.txt:1075:  O, no! thy love, though much, is not so great:
+sonnets.txt:1076:  It is my love that keeps mine eye awake:
+sonnets.txt:1077:  Mine own true love that doth my rest defeat,
+sonnets.txt:1084:  Sin of self-love possesseth all mine eye
+sonnets.txt:1094:  Mine own self-love quite contrary I read;
+sonnets.txt:1101:  Against my love shall be as I am now,
+sonnets.txt:1112:  My sweet love's beauty, though my lover's life:
+sonnets.txt:1129:  That Time will come and take my love away.
+sonnets.txt:1148:    That in black ink my love may still shine bright.
+sonnets.txt:1165:    Save that, to die, I leave my love alone.
+sonnets.txt:1226:  For canker vice the sweetest buds doth love,
+sonnets.txt:1242:  The hand that writ it, for I love you so,
+sonnets.txt:1248:  But let your love even with my life decay;
+sonnets.txt:1255:  What merit lived in me, that you should love
+sonnets.txt:1256:  After my death,--dear love, forget me quite,
+sonnets.txt:1262:  O! lest your true love may seem false in this
+sonnets.txt:1263:  That you for love speak well of me untrue,
+sonnets.txt:1267:    And so should you, to love things nothing worth.
+sonnets.txt:1283:    This thou perceiv'st, which makes thy love more strong,
+sonnets.txt:1284:    To love that well, which thou must leave ere long.
+sonnets.txt:1330:  O! know sweet love I always write of you,
+sonnets.txt:1331:  And you and love are still my argument;
+sonnets.txt:1335:    So is my love still telling what is told.
+sonnets.txt:1377:  I grant, sweet love, thy lovely argument
+sonnets.txt:1403:    The worst was this,--my love was my decay.
+sonnets.txt:1432:  And do so, love; yet when they have devis'd,
+sonnets.txt:1485:  But that is in my thought, whose love to you,
+sonnets.txt:1538:    Such is my love, to thee I so belong,
+sonnets.txt:1547:  Thou canst not love disgrace me half so ill,
+sonnets.txt:1552:  Thy sweet beloved name no more shall dwell,
+sonnets.txt:1556:    For I must ne'er love him whom thou dost hate.
+sonnets.txt:1585:  Thy love is better than high birth to me,
+sonnets.txt:1596:  And life no longer than thy love will stay,
+sonnets.txt:1597:  For it depends upon that love of thine.
+sonnets.txt:1605:  Happy to have thy love, happy to die!
+sonnets.txt:1612:  Like a deceived husband; so love's face
+sonnets.txt:1613:  May still seem love to me, though alter'd new;
+sonnets.txt:1620:  That in thy face sweet love should ever dwell;
+sonnets.txt:1645:  How sweet and lovely dost thou make the shame
+sonnets.txt:1674:    But do not so; I love thee in such sort,
+sonnets.txt:1715:  If not from my love's breath? The purple pride
+sonnets.txt:1717:  In my love's veins thou hast too grossly dy'd.
+sonnets.txt:1739:  Rise, resty Muse, my love's sweet face survey,
+sonnets.txt:1743:    Give my love fame faster than Time wastes life,
+sonnets.txt:1750:  Both truth and beauty on my love depends;
+sonnets.txt:1765:  My love is strengthen'd, though more weak in seeming;
+sonnets.txt:1766:  I love not less, though less the show appear;
+sonnets.txt:1767:  That love is merchandiz'd, whose rich esteeming,
+sonnets.txt:1769:  Our love was new, and then but in the spring,
+sonnets.txt:1816:  Let not my love be call'd idolatry,
+sonnets.txt:1817:  Nor my beloved as an idol show,
+sonnets.txt:1820:  Kind is my love to-day, to-morrow kind,
+sonnets.txt:1836:  In praise of ladies dead and lovely knights,
+sonnets.txt:1852:  Can yet the lease of my true love control,
+sonnets.txt:1859:  My love looks fresh, and Death to me subscribes,
+sonnets.txt:1870:  That may express my love, or thy dear merit?
+sonnets.txt:1875:  So that eternal love in love's fresh case,
+sonnets.txt:1879:    Finding the first conceit of love there bred,
+sonnets.txt:1888:  That is my home of love: if I have rang'd,
+sonnets.txt:1908:  And worse essays prov'd thee my best of love.
+sonnets.txt:1912:  A god in love, to whom I am confin'd.
+sonnets.txt:1935:  Your love and pity doth the impression fill,
+sonnets.txt:1972:  And that your love taught it this alchemy,
+sonnets.txt:1982:    That mine eye loves it and doth first begin.
+sonnets.txt:1987:  Even those that said I could not love you dearer:
+sonnets.txt:1995:  Might I not then say, 'Now I love you best,'
+sonnets.txt:2004:  Admit impediments. Love is not love
+sonnets.txt:2022:  Forgot upon your dearest love to call,
+sonnets.txt:2033:    The constancy and virtue of your love.
+sonnets.txt:2045:  Thus policy in love, to anticipate
+sonnets.txt:2064:  And ruin'd love, when it is built anew,
+sonnets.txt:2114:  Nor need I tallies thy dear love to score;
+sonnets.txt:2139:  If my dear love were but the child of state,
+sonnets.txt:2141:  As subject to Time's love or to Time's hate,
+sonnets.txt:2173:  O thou, my lovely boy, who in thy power
+sonnets.txt:2176:  Thy lovers withering, as thy sweet self grow'st.
+sonnets.txt:2247:  I love to hear her speak, yet well I know
+sonnets.txt:2251:    And yet by heaven, I think my love as rare,
+sonnets.txt:2261:  Thy face hath not the power to make love groan;
+sonnets.txt:2273:  Thine eyes I love, and they, as pitying me,
+sonnets.txt:2344:  Thus far for love, my love-suit, sweet, fulfil.
+sonnets.txt:2345:  'Will', will fulfil the treasure of thy love,
+sonnets.txt:2353:    Make but my name thy love, and love that still,
+sonnets.txt:2375:  When my love swears that she is made of truth,
+sonnets.txt:2385:  O! love's best habit is in seeming trust,
+sonnets.txt:2386:  And age in love, loves not to have years told:
+sonnets.txt:2400:  Let me excuse thee: ah! my love well knows
+sonnets.txt:2415:  Though not to love, yet, love to tell me so;--
+sonnets.txt:2427:  In faith I do not love thee with mine eyes,
+sonnets.txt:2429:  But 'tis my heart that loves what they despise,
+sonnets.txt:2450:  And seal'd false bonds of love as oft as mine,
+sonnets.txt:2452:  Be it lawful I love thee, as thou lov'st those
+sonnets.txt:2478:  Two loves I have of comfort and despair,
+sonnets.txt:2529:  My love is as a fever longing still,
+sonnets.txt:2533:  My reason, the physician to my love,
+sonnets.txt:2552:  If it be not, then love doth well denote
+sonnets.txt:2563:  Canst thou, O cruel! say I love thee not,
+sonnets.txt:2575:    But, love, hate on, for now I know thy mind;
+sonnets.txt:2588:  Who taught thee how to make me love thee more,
+sonnets.txt:2590:  O! though I love what others do abhor,
+sonnets.txt:2592:    If thy unworthiness rais'd love in me,
+sonnets.txt:2598:  Yet who knows not conscience is born of love?
+sonnets.txt:2604:  Triumph in love; flesh stays no farther reason,
+sonnets.txt:2610:    Her 'love,' for whose dear love I rise and fall.
+sonnets.txt:2615:  But thou art twice forsworn, to me love swearing;
+sonnets.txt:2617:  In vowing new hate after new love bearing:
+sonnets.txt:2623:  Oaths of thy love, thy truth, thy constancy;
+sonnets.txt:2633:  And his love-kindling fire did quickly steep
+sonnets.txt:2661:    Love's fire heats water, water cools not love.
+sonnets2_ac.txt:10:Of his self-love to stop posterity?
+sonnets2_ac.txt:12:Calls back the lovely April of her prime;
+sonnets2_ad.txt:3:Unthrifty loveliness, why dost thou spend
+sonnets2_ae.txt:4:The lovely gaze where every eye doth dwell,
+sonnets3_ad.txt:16:  No love toward others in that bosom sits
+sonnets3_ae.txt:4:For shame! deny that thou bear'st love to any,
+sonnets3_ae.txt:13:Shall hate be fairer lodg'd than gentle love?
+sonnets3_ae.txt:16:  Make thee another self for love of me,
+sonnets3_ah.txt:4:O! that you were your self; but, love you are
+sonnets3_ah.txt:16:  O! none but unthrifts. Dear my love, you know,
+sonnets3_aj.txt:16:  And all in war with Time for love of you,
+sonnets3_am.txt:5:Thou art more lovely and more temperate:
+sonnets3_an.txt:12:O! carve not with thy hours my love's fair brow,
+sonnets3_an.txt:17:  My love shall in my verse ever live young.
+sonnets3_ao.txt:17:  Mine be thy love and thy love's use their treasure.
+sonnets3_ap.txt:12:O! let me, true in love, but truly write,
+sonnets3_ap.txt:13:And then believe me, my love is as fair
+sonnets3_aq.txt:12:O! therefore love, be of thyself so wary
+sonnets3_ar.txt:9:The perfect ceremony of love's rite,
+sonnets3_ar.txt:10:And in mine own love's strength seem to decay,
+sonnets3_ar.txt:11:O'ercharg'd with burthen of mine own love's might.
+sonnets3_ar.txt:14:Who plead for love, and look for recompense,
+sonnets3_ar.txt:16:  O! learn to read what silent love hath writ:
+sonnets3_ar.txt:17:  To hear with eyes belongs to love's fine wit.
+sonnets3_at.txt:16:  Then happy I, that love and am belov'd,
+sonnets3_au.txt:4:Lord of my love, to whom in vassalage
+sonnets3_au.txt:16:  Then may I dare to boast how I do love thee;
+sonnets3_ax.txt:16:  For thy sweet love remember'd such wealth brings
+sonnets3_ay.txt:10:And weep afresh love's long since cancell'd woe,
+sonnets3_az.txt:9:Hath dear religious love stol'n from mine eye,
+sonnets3_az.txt:12:Thou art the grave where buried love doth live,
+sonnets3_az.txt:13:Hung with the trophies of my lovers gone,
+sonnets3_ba.txt:7:These poor rude lines of thy deceased lover,
+sonnets3_ba.txt:10:Reserve them for my love, not for their rhyme,
+sonnets3_ba.txt:14:A dearer birth than this his love had brought,
+sonnets3_ba.txt:17:  Theirs for their style I'll read, his for his love'.
+sonnets3_bb.txt:16:  Yet him for this my love no whit disdaineth;
+sonnets3_bc.txt:16:  Ah! but those tears are pearl which thy love sheds,
+sonnets3_bd.txt:15:Such civil war is in my love and hate,
+sonnets3_be.txt:5:Although our undivided loves are one:
+sonnets3_be.txt:8:In our two loves there is but one respect,
+sonnets3_be.txt:10:Which though it alter not love's sole effect,
+sonnets3_be.txt:11:Yet doth it steal sweet hours from love's delight.
+sonnets3_be.txt:16:  But do not so, I love thee in such sort,
+sonnets3_bf.txt:11:I make my love engrafted, to this store:
+sonnets3_bh.txt:9:And our dear love lose name of single one,
+sonnets3_bh.txt:14:To entertain the time with thoughts of love,
+sonnets3_bi.txt:4:Take all my loves, my love, yea take them all;
+sonnets3_bi.txt:6:No love, my love, that thou mayst true love call;
+sonnets3_bi.txt:8:Then, if for my love, thou my love receivest,
+sonnets3_bi.txt:9:I cannot blame thee, for my love thou usest;
+sonnets3_bi.txt:14:And yet, love knows it is a greater grief
+sonnets3_bi.txt:15:To bear love's wrong, than hate's known injury.
+sonnets3_bk.txt:5:And yet it may be said I loved her dearly;
+sonnets3_bk.txt:7:A loss in love that touches me more nearly.
+sonnets3_bk.txt:9:Thou dost love her, because thou know'st I love her;
+sonnets3_bk.txt:12:If I lose thee, my loss is my love's gain,
+sonnets3_bk.txt:17:  Sweet flattery! then she loves but me alone.
+sonnets3_bn.txt:9:In tender embassy of love to thee,
+sonnets3_bo.txt:17:  And my heart's right, thy inward love of heart.
+sonnets3_bp.txt:7:Or heart in love with sighs himself doth smother,
+sonnets3_bp.txt:8:With my love's picture then my eye doth feast,
+sonnets3_bp.txt:11:And in his thoughts of love doth share a part:
+sonnets3_bp.txt:12:So, either by thy picture or my love,
+sonnets3_br.txt:6:When as thy love hath cast his utmost sum,
+sonnets3_br.txt:10:When love, converted from the thing it was,
+sonnets3_br.txt:17:  Since why to love I can allege no cause.
+sonnets3_bt.txt:4:Thus can my love excuse the slow offence
+sonnets3_bt.txt:13:Therefore desire, of perfect'st love being made,
+sonnets3_bt.txt:15:But love, for love, thus shall excuse my jade,--
+sonnets3_bw.txt:16:  And so of you, beauteous and lovely youth,
+sonnets3_bx.txt:17:  You live in this, and dwell in lovers' eyes.
+sonnets3_by.txt:4:Sweet love, renew thy force; be it not said
+sonnets3_by.txt:8:So, love, be thou, although to-day thou fill
+sonnets3_by.txt:11:The spirit of love, with a perpetual dulness.
+sonnets3_by.txt:15:Return of love, more blest may be the view;
+sonnets3_bz.txt:16:  So true a fool is love, that in your will,
+sonnets3_cd.txt:12:O, no! thy love, though much, is not so great:
+sonnets3_cd.txt:13:It is my love that keeps mine eye awake:
+sonnets3_cd.txt:14:Mine own true love that doth my rest defeat,
+sonnets3_ce.txt:4:Sin of self-love possesseth all mine eye
+sonnets3_ce.txt:14:Mine own self-love quite contrary I read;
+sonnets3_cf.txt:4:Against my love shall be as I am now,
+sonnets3_cf.txt:15:My sweet love's beauty, though my lover's life:
+sonnets3_cg.txt:15:That Time will come and take my love away.
+sonnets3_ch.txt:17:  That in black ink my love may still shine bright.
+sonnets3_ci.txt:17:  Save that, to die, I leave my love alone.
+sonnets3_cm.txt:10:For canker vice the sweetest buds doth love,
+sonnets3_cn.txt:9:The hand that writ it, for I love you so,
+sonnets3_cn.txt:15:But let your love even with my life decay;
+sonnets3_co.txt:5:What merit lived in me, that you should love
+sonnets3_co.txt:6:After my death,--dear love, forget me quite,
+sonnets3_co.txt:12:O! lest your true love may seem false in this
+sonnets3_co.txt:13:That you for love speak well of me untrue,
+sonnets3_co.txt:17:  And so should you, to love things nothing worth.
+sonnets3_cp.txt:16:  This thou perceiv'st, which makes thy love more strong,
+sonnets3_cp.txt:17:  To love that well, which thou must leave ere long.
+sonnets3_cs.txt:12:O! know sweet love I always write of you,
+sonnets3_cs.txt:13:And you and love are still my argument;
+sonnets3_cs.txt:17:  So is my love still telling what is told.
+sonnets3_cv.txt:8:I grant, sweet love, thy lovely argument
+sonnets3_cw.txt:17:  The worst was this,--my love was my decay.
+sonnets3_cy.txt:12:And do so, love; yet when they have devis'd,
+sonnets3_db.txt:14:But that is in my thought, whose love to you,
+sonnets3_de.txt:16:  Such is my love, to thee I so belong,
+sonnets3_df.txt:8:Thou canst not love disgrace me half so ill,
+sonnets3_df.txt:13:Thy sweet beloved name no more shall dwell,
+sonnets3_df.txt:17:  For I must ne'er love him whom thou dost hate.
+sonnets3_dh.txt:12:Thy love is better than high birth to me,
+sonnets3_di.txt:6:And life no longer than thy love will stay,
+sonnets3_di.txt:7:For it depends upon that love of thine.
+sonnets3_di.txt:15:Happy to have thy love, happy to die!
+sonnets3_dj.txt:5:Like a deceived husband; so love's face
+sonnets3_dj.txt:6:May still seem love to me, though alter'd new;
+sonnets3_dj.txt:13:That in thy face sweet love should ever dwell;
+sonnets3_dl.txt:4:How sweet and lovely dost thou make the shame
+sonnets3_dm.txt:16:  But do not so; I love thee in such sort,
+sonnets4_aa.txt:5:If not from my love's breath? The purple pride
+sonnets4_aa.txt:7:In my love's veins thou hast too grossly dy'd.
+sonnets5_aa.txt:11:Rise, resty Muse, my love's sweet face survey,
+sonnets5_aa.txt:15:  Give my love fame faster than Time wastes life,
+sonnets5_ab.txt:5:Both truth and beauty on my love depends;
+sonnets5_ac.txt:3:My love is strengthen'd, though more weak in seeming;
+sonnets5_ac.txt:4:I love not less, though less the show appear;
+sonnets5_ac.txt:5:That love is merchandiz'd, whose rich esteeming,
+sonnets5_ac.txt:7:Our love was new, and then but in the spring,
+sonnets5_af.txt:3:Let not my love be call'd idolatry,
+sonnets5_af.txt:4:Nor my beloved as an idol show,
+sonnets5_af.txt:7:Kind is my love to-day, to-morrow kind,
+sonnets5_ag.txt:6:In praise of ladies dead and lovely knights,
+sonnets5_ah.txt:5:Can yet the lease of my true love control,
+sonnets5_ah.txt:12:My love looks fresh, and Death to me subscribes,
+sonnets5_ai.txt:6:That may express my love, or thy dear merit?
+sonnets5_ai.txt:11:So that eternal love in love's fresh case,
+sonnets5_ai.txt:15:  Finding the first conceit of love there bred,
+sonnets5_aj.txt:7:That is my home of love: if I have rang'd,
+sonnets5_ak.txt:10:And worse essays prov'd thee my best of love.
+sonnets5_ak.txt:14:A god in love, to whom I am confin'd.
+sonnets5_am.txt:3:Your love and pity doth the impression fill,
+sonnets5_ao.txt:6:And that your love taught it this alchemy,
+sonnets5_ao.txt:16:  That mine eye loves it and doth first begin.
+sonnets5_ap.txt:4:Even those that said I could not love you dearer:
+sonnets5_ap.txt:12:Might I not then say, 'Now I love you best,'
+sonnets5_aq.txt:4:Admit impediments. Love is not love
+sonnets5_ar.txt:5:Forgot upon your dearest love to call,
+sonnets5_ar.txt:16:  The constancy and virtue of your love.
+sonnets5_as.txt:11:Thus policy in love, to anticipate
+sonnets5_at.txt:13:And ruin'd love, when it is built anew,
+sonnets5_aw.txt:12:Nor need I tallies thy dear love to score;
+sonnets5_ay.txt:3:If my dear love were but the child of state,
+sonnets5_ay.txt:5:As subject to Time's love or to Time's hate,
+sonnets6_aa.txt:3:O thou, my lovely boy, who in thy power
+sonnets6_aa.txt:6:Thy lovers withering, as thy sweet self grow'st.
+sonnets7_ad.txt:11:I love to hear her speak, yet well I know
+sonnets7_ad.txt:15:  And yet by heaven, I think my love as rare,
+sonnets7_ae.txt:8:Thy face hath not the power to make love groan;
+sonnets7_af.txt:3:Thine eyes I love, and they, as pitying me,
+sonnets7_aj.txt:6:Thus far for love, my love-suit, sweet, fulfil.
+sonnets7_aj.txt:7:'Will', will fulfil the treasure of thy love,
+sonnets7_aj.txt:15:  Make but my name thy love, and love that still,
+sonnets7_al.txt:3:When my love swears that she is made of truth,
+sonnets7_al.txt:13:O! love's best habit is in seeming trust,
+sonnets7_al.txt:14:And age in love, loves not to have years told:
+sonnets7_am.txt:11:Let me excuse thee: ah! my love well knows
+sonnets8_aa.txt:9:Though not to love, yet, love to tell me so;--
+sonnets8_ab.txt:4:In faith I do not love thee with mine eyes,
+sonnets8_ab.txt:6:But 'tis my heart that loves what they despise,
+sonnets8_ac.txt:10:And seal'd false bonds of love as oft as mine,
+sonnets8_ac.txt:12:Be it lawful I love thee, as thou lov'st those
+sonnets8_ae.txt:4:Two loves I have of comfort and despair,
+sonnets8_ah.txt:4:My love is as a fever longing still,
+sonnets8_ah.txt:8:My reason, the physician to my love,
+sonnets8_ai.txt:10:If it be not, then love doth well denote
+sonnets8_aj.txt:4:Canst thou, O cruel! say I love thee not,
+sonnets8_aj.txt:16:  But, love, hate on, for now I know thy mind;
+sonnets8_ak.txt:12:Who taught thee how to make me love thee more,
+sonnets8_ak.txt:14:O! though I love what others do abhor,
+sonnets8_ak.txt:16:  If thy unworthiness rais'd love in me,
+sonnets8_al.txt:5:Yet who knows not conscience is born of love?
+sonnets8_al.txt:11:Triumph in love; flesh stays no farther reason,
+sonnets8_al.txt:17:  Her 'love,' for whose dear love I rise and fall.
+sonnets8_am.txt:5:But thou art twice forsworn, to me love swearing;
+sonnets8_am.txt:7:In vowing new hate after new love bearing:
+sonnets8_am.txt:13:Oaths of thy love, thy truth, thy constancy;
+sonnets8_an.txt:6:And his love-kindling fire did quickly steep
+sonnets8_ao.txt:17:  Love's fire heats water, water cools not love.
+truth.txt:15:cleaned-sonnets1.txt:1708:Both truth and beauty on my love depends;
+truth.txt:19:cleaned-sonnets1.txt:2333:When my love swears that she is made of truth,
+truth.txt:22:cleaned-sonnets1.txt:2581:Oaths of thy love, thy truth, thy constancy;
+truth.txt:38:cleaned_sonnets.txt:1708:  Both truth and beauty on my love depends;
+truth.txt:42:cleaned_sonnets.txt:2333:  When my love swears that she is made of truth,
+truth.txt:45:cleaned_sonnets.txt:2581:  Oaths of thy love, thy truth, thy constancy;
+truth.txt:61:cleaned_sonnets5.txt:22:Both truth and beauty on my love depends;
+truth.txt:65:cleaned_sonnets7.txt:190:When my love swears that she is made of truth,
+truth.txt:68:cleaned_sonnets8.txt:217:Oaths of thy love, thy truth, thy constancy;
+truth.txt:84:sonnets.txt:1750:  Both truth and beauty on my love depends;
+truth.txt:88:sonnets.txt:2375:  When my love swears that she is made of truth,
+truth.txt:91:sonnets.txt:2623:  Oaths of thy love, thy truth, thy constancy;
+truth.txt:107:sonnets5_ab.txt:5:Both truth and beauty on my love depends;
+truth.txt:111:sonnets7_al.txt:3:When my love swears that she is made of truth,
+truth.txt:114:sonnets8_am.txt:13:Oaths of thy love, thy truth, thy constancy;

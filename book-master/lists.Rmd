@@ -1,0 +1,405 @@
+# Lists and Sequences
+
+This chapter will cover using **lists** in Python, which is a data type representing a _sequence_ of data values. A list is a fundamental data type in Python, and key to writing almost all practical programs. Lists are used to store and organize large sets of data (and computer programs usually deal with _lots_ of data). This chapter covers how to create and access lists, as well as a number of related sequence structures. Note in practice, using lists also means using _loops_, which are covered in the chapter [_Iterating with Loops_](#loops).
+
+<!--(similar to how a `string` is a sequence of letters, and a `range` is a sequence of numbers) -->
+
+## What is a List?
+A list is a **mutable**, **ordered** sequence of values that are all stored in a single variable. For example, you can make a list `names` that contains the strings "Sarah", "Amit", and "Zhang", or a list `one_to_seventy` that stores the numbers from 1 to 70. Each value in a list is referred to as an **element** of that list; thus your `names` list would have 3 elements: `"Sarah"`, `"Amit"`, and `"Zhang"`.
+
+Lists are written as literals inside of _square brackets_ (**`[]`**), with each element in the list separated by a _comma_ (**`,`**):
+
+```python
+# A list of names
+names = ["Sarah", "Amit", "Zhang"]
+
+# A list of numbers (lists can contain "duplicate" values)
+numbers = [1, 2, 2, 3, 5, 8]
+
+# Lists can contain different types of values (including other lists!)
+things = ["raindrops", 2, True, [5, 1, 1]]
+
+# Lists can be empty (with no elements)
+empty = []
+```
+
+<p class="alert alert-warning">
+**Style Requirement**: List variables should be named using **plurals** (name**s**, number**s**, etc.), because lists hold multiple values!
+</p>
+
+
+## List Indices
+You can refer to individual elements in a list by their **index**, which is the number of their position in the list. Lists are _zero-indexed_, which means that positions are counted starting at `0`. For example, in the list:
+
+```python
+vowels = ['a', 'e', 'i', 'o', 'u']
+```
+
+The `'a'` (the first element) is at _index_ 0, `'e'` (the second element) is at index 1, and so on. This also means that the last element can be found at the index `length_of_list - 1`.
+
+You can retrieve an element from a list using **bracket notation**: you refer to the element at a particular index of a list by writing the name of the list, followed by square brackets (**`[]`**) that contain the index of interest:
+
+```python
+# Create the `names` list
+names = ["Sarah", "Amit", "Zhang"]
+
+# Access the element at index 0
+name_first = names[0]
+print(name_first) # Sarah
+
+# Access the element at index 2
+name_third = names[2]
+print(name_third) # Zhang
+
+# Accessing an index not in the list will give an error
+name_fourth = names[3] # IndexError!
+
+# Negative indices count backwards from the end
+name_last = names[-1] # Zhang
+name_second_to_last = names[-2] # Amit
+```
+
+The value inside the square brackets can any expression that resolves to an integer, including variables:
+
+```python
+# Access the element at index `3-2` (1)
+names[3-2]  # "Amit"
+
+last_index = len(names) - 1  # last index is length of list - 1
+names[last_index]  # "Zhang"
+
+# Don't forget to subtract one from the length!
+names[len(names)]  # IndexError!
+# Using an index of `-1` is a better way to get the last element
+```
+
+<!-- The expression in the brackets will be evaluated first&mdash;similar to how arguments to functions are evaluated before being passed in. -->
+
+The most important thing to note about lists is that an indexed reference to a list element (e.g., `names[0]`) is effectively a **variable in its own right**: you can think of `names[0]`, `names[1]`, and `names[2]` as being equivalent to having variables `names_0`, `names_1`, `names_2` (each of which has its own value). Lists effectively provide a "shortcut" for having lots and lots of variables that are all related; you can "collect" those variables into a list!
+
+- As a metaphor: you can think of a list as a "hotel" full of values, and each index as the "room number" of that value. For example, the value "Zhang" lives at room \#2. The value `names[2]` refers to "the value that lives in room \#2" (similar to how a bellhop might refer to a customer)
+
+Because list references are variables, they can be used anywhere that a "normal" variable can be. In particular, this means that variables can be assigned to them, allowing the list to be **mutated** (changed):
+
+```python
+# A list of school supplies
+school_supplies = ["Backpack", "Laptop", "Pen"]
+
+# Assign a new value to the element at index 2; replaces "Pen" with "Pencil"
+school_supplies[2] = "Pencil"
+
+print(school_supplies)  # ['Backpack', 'Laptop', 'Pencil']
+
+# You can only assign values to elements that exist in the list!
+school_supplies[3] = "Paper"  # IndexError!
+```
+
+- Following the hotel metaphor: `names[2] = "Yash"` would mean "the value 'Yash' is now living in room \#2".
+
+Just as with variables: if the list index (e.g., `my_list[index]`) is on the _left_ side of an assignment, it means the **variable** (which "slot" in the list). If it is on the _right_ side of an assignment, it means the **value** (which element is in that slot).
+
+```python
+letters = ['a', 'b', 'c']
+
+letters[0] = 'q'  # `letters[0]` is the variable we assign to
+first_letter = letters[0]  # `letters[0]` is the value assigned
+```
+
+Note that it is also possible to select multiple, _consecutive_ elements from a list by specifying a **slice**. A slice is written as the starting and ending indices separated by a colon (**`:`**); the starting index is included and the ending index is _excluded_. For example:
+
+```python
+letters = ['a', 'b', 'c', 'd', 'e', 'f']
+
+# Indices 1 through 3 (non-inclusive)
+letters[1:3]  # ['b', 'c']
+
+# Indices 3 to the end (inclusive)
+letters[3:]  # ['d', 'e', 'f']
+
+# Indices up to 3 (non-inclusive)
+letters[:3]  # ['a', 'b', 'c']
+
+# Indices 2 to (2 from end) (non-inclusive)
+letters[2:-2]  # ['c', 'd'], the `e` is excluded
+
+# All the indices. This produces a new list with the same contents!
+letters[:]
+```
+
+<!-- Add note about third slice argument? Not needed... -->
+
+
+## List Operations and Methods
+Lists support a number of different [operations](https://docs.python.org/3/library/stdtypes.html#common-sequence-operations) and [methods](https://docs.python.org/3/tutorial/datastructures.html#more-on-lists) (functions), some of which are demonstrated below:
+
+```python
+# Use addition (+) to combine lists
+['a', 'b'] + [1, 2]  # ['a', 'b', 1, 2]
+
+# Multiplication (*) performs multiple additions
+[1, 2] * 3  # [1, 2, 1, 2, 1, 2]
+
+# A sample list
+letters = ['a', 'b', 'c', 'd']
+
+# Add value to end of list
+letters.append('x')  # add 'x' at end
+
+# Add value in middle of list
+letters.insert(2, 'y')  # put 'y' at index 2 (everyone else shifts over)
+
+# Remove from end of list ("pop off")
+letters.pop()  # removes and returns the last item (`x`)
+
+# Remove from middle
+letters.pop(2)  # removes and returns item at index 2 (`y`)
+
+# Remove specific value
+letters.remove('c')  # remove the first 'c' in the list; nothing returned
+
+# Remove all elements
+letters.clear()
+```
+
+<div class="alert alert-warning"><p>Note that list methods such as `append()` or `clear()` usually **mutate** the existing list value and then return `None`. In comparison, string methods (such as `lower()` or `replace()`) will return a _different_ string value. This is because lists can be changed, but strings cannot (strings are _immutable_).</p>
+
+<p>In general, if you call a list method, you won't assign the result to a value. But if you call a string method, you will assign the result to a value</p></div>
+
+When comparing lists using a _relational operator_ (e.g., `==` or `>`), the operation is applied to the lists **member-wise**: the first element in each list is compared, and in the case of a "tie" then the second element in each list are compared, and so on. In practice, this means that (a) you can use `==` to compare the contents of lists, and (b) a list is "smaller" than another if its first element(s) is smaller than the other's first element(s).
+
+But be careful: just because two lists have the same contents (are `==`) does not mean that they are _the same list_! In particular, two lists can be _different objects_ (values) but still have the same contents. In Python, you can test whether two values are actually _the same value_ (as opposed to having the same contents) using the **`is`** operator.
+
+```python
+# With strings, literals are shared (because they cannot be mutated)
+str_a = "banana"  # `a` labels string literal "banana"
+str_b = "banana"  # `b` labels string literal "banana"
+
+# Both variables label the same (literal) value
+str_a is str_b  # True
+
+# With lists, each list created is a different object!
+list_a = [1,2,3]  # `a` labels a new list [1,2,3]
+list_b = [1,2,3]  # `b` labels a new list [1,2,3]
+
+a == b  # True, have same values as contents
+a is b  # False, are two different objects
+
+list_c = list_a  # `c` labels the value that `a` labels
+a is c  # True, both labels are on the same object
+
+# Modify the list!
+list_a[0] = 10
+print(list_b[0])  # 1 (is a different list, so not changed)
+print(list_c[0])  # 10 (is the same list, so is changed)
+```
+
+Keeping track of whether a _new_ list has been created is particularly important when using lists as **arguments to functions**. Function arguments are local variables that are _assigned_ the passed value&mdash;if this value is a list, then the assigned variable will refer to the same list, and any modifications to the argument will affect the value outside of the function:
+
+```python
+# A version of a function that modifies the list
+def delete_first(a_list):
+    a_list.pop(0)  # modifies the given value
+
+letters = ['a','b','c']
+delete_first(letters)  # call function
+print(letters)  # ['b', 'c'], variable is changed
+
+# A version of a function that does not modify the list
+def delete_first_local(a_list):
+    shorter_list = a_list[1:]  
+    a_list = shorter_list # creates new local variable (replacing old local var)
+
+letters = ['a','b','c']
+delete_first_local(letters)  # call function
+print(letters)  # ['a', 'b', 'c'], variable is not changed
+```
+
+## Nested Lists
+As noted at the start of the chapter, lists elements can be of **any** data type (and any _combination_ of data types)&mdash;including other lists! These "lists of lists" are known as **nested lists** or **2-dimensional lists** (or _3d-lists_ for a "list of lists of lists", etc). Nested lists are most commonly used to represent information such as _tables_ or _matrices_.
+
+Nested lists work exactly like normal lists&mdash;the elements just happen to themselves be indexable:
+
+```python
+# A list of different dinners available at a fancy party
+# This list has 4 elements, each of which is a list of 3 string elements
+# (the indentation is just for human readability)
+dinner_options = [
+    ["chicken", "mashed potatoes", "mixed veggies"],
+    ["steak", "seasoned potatoes", "asparagus"],
+    ["fish", "seasoned rice", "green beans"],
+    ["portobello steak", "seasoned rice", "green beans"]
+]
+
+len(dinner_options) # 4; there are 4 elements in the "outer" list
+fish_option = dinner_options[2]  # ["fish", "seasoned rice", "green beans"]
+
+# Because `fish_option` is a list, we can reference its elements by index
+print(fish_option[0])  # "fish"
+```
+
+In this example, `fish_option` is a variable that refers to a list, and thus its elements can be accessed by index using bracket notation. But as with any operator or function, it is also possible to use bracket notation on an _anonymous value_ (e.g., a literal value that has not been assigned to a variable). That is, because `dinner_options[2]` is a list, we can use bracket notation refer to an element of that list without assigning it to a variable first:
+
+```python
+# Access the 2th element's 0th element
+dinner_options[2][0]  # "fish"
+```
+
+This "pair of brackets" notation allows you to easily access elements within nested lists. This is particularly useful for 2d-lists that represent _tables_ as a list of "rows" (often data records), each of which is a list of "column cells" (often data features):
+
+```python
+# A simple table of values
+table = [ ['aa','ab','ac','ad'],
+          ['ba','bb','bc','bd'],
+          ['ca','cb','cc','cd'] ]
+
+row_index = 1  # cells starting with 'b'
+col_index = 3  # cells ending with 'd'
+table[row_index][col_index]  # "bd", the cell at (row, col)
+```
+
+## Other Sequences
+In Python, lists are the most common example of a _sequence_ data structure. But there are other types of [sequences](https://docs.python.org/3/library/stdtypes.html#typesseq) as well. 
+
+For example, **strings** are _indexed sequences_ of characters. Thus you can use _bracket notation_ to refer to individual letters, and many string methods make use of the character's index:
+
+```python
+# Define a string
+message_str = "Hello world"
+
+# Access individual letters using bracket notation
+first_letter = message_str[0]
+
+# Can also slice to select multiple letters (substrings)
+message_str[1:5]  # "ello"
+
+# Use a method find the index of the character 'w'
+message_str.find('w')  # 6
+```
+
+It is possible to convert other sequences (such as strings) into a `list` variable by using the built-in `list()` function (similar how you converted numbers into strings with the `str()` function):
+
+```python
+# Convert a string into a list
+list("hello")  # ['h', 'e', 'l', 'l', 'o']
+```
+
+### Ranges
+Another common sequence type is a [**range**](https://docs.python.org/3/library/stdtypes.html#ranges). A range represents a sequence of _integers_. You create a range sequence by using the built-in `range()` function. This function. The `range()` function can be called with different arguments depending on the range and spread of numbers you wish to use:
+
+```python
+# One argument produces a range of numbers from 0 to the argument (not inclusive)
+range(10) # produces `0, 1, 2, 3, 4, 5, 6, 7, 8, 9`
+
+# Two arguments produce a range of numbers from the first argument (inclusive) 
+# to the second argument (not inclusive)
+range(3,10) # produces `3, 4, 5, 6, 7, 8, 9`
+
+# Three arguments produces a range of numbers from the first argument (inclusive)
+# to the second argument (not inclusive), stepping by the third argument
+range(0, 10, 3) # produces `0, 3, 6, 9`; every 3rd number from 0 to 9
+```
+
+The fact that the "ending" argument is non-inclusive is related to how sequences are zero-index. `range(10)` produces a sequence of 10 values; but because it starts at `0`, the sequence ends at `9`. When counting from 0, the 
+
+You can access individual elements of a range using bracket notation. Note though that ranges are **immutable**, which means you can't assign a different value to a range element.
+
+<!-- ```python
+one_to_five = range(1,6) # remember that the last number is not included!
+second_value = one_to_five[2] # 3
+
+one_to_five[2] = 10 # TypeError: 'range' object does not support item assignment
+``` -->
+
+Importantly, ranges are different than lists! If you print out a range, you won't see the whole sequence of numbers. You can convert the range into a list by using the `list()` function (though again, you don't commonly want to do this).
+
+```python
+one_to_five = range(1,6)
+print(one_to_five) # range(1, 6)
+
+one_to_five_list = list(one_to_five)
+print(one_to_five_list) # [1, 2, 3, 4, 5]
+```
+
+Ranges are most commonly used when doing _iteration_, as they provide a clean way to specify the number of times you want to do something (or to track which element of a list you're on). See [_Iterating with Loops_](#loops) for more details on when to use ranges.
+
+
+### Tuples
+While lists are _mutable_ (changeable) sequences of data, **tuples** represent ___immutable___ sequences of data. These are useful if you want to enforce that a data value won't be changed, such as for a function argument (or a dictionary key; see [Chapter 10](#dictionaries)). Indeed, many built-in Python functions utilize tuples.
+
+**Tuples** are written as _comma-separated sequences_ of values. They are often placed inside parentheses for clarity (to help indicate the start and end of the tuple values):
+
+```python
+# A tuple with 3 elements
+letters_tuple = ('a', 'b', 'c')
+print(letters_tuple)  # ('a', 'b', 'c')
+
+# Also is a tuple with 3 elements (written without parentheses)
+numbers_tuple = 1, 2, 3
+print(numbers_tuple)  # (1, 2, 3)
+
+# A tuple representing a person's name, age, and whether they are hungry
+# Tuple values have _implied_ meanings, which should be explained in comments
+hungry_person = ('Ada', 28, True)
+
+# In English, tuple variables may be named based on the number of elements
+a_triple = (1,2,3)
+a_double = (4,5)
+a_single = (6,)  # extra comma indicates is a tuple, not just the int `6`
+empty = ()  # an empty expression is a tuple!
+
+# For fun
+type(())  # <class 'tuple'> (type of empty expression)
+```
+
+<p class="alert alert-warning">
+It's important to note that while you often write tuples in parentheses (and they are printed in parentheses), it is the **commas** that makes a sequence of literals into a tuple. The parentheses act just like like they do in mathematical expressions&mdash;they are only necessary to clarify ambiguity in the order-of-operations. You will find that some "idiomatic" expressions using tuples forgo the parentheses, making the syntax look more magical than it is!
+</p>
+
+Elements in tuples can be accessed by **index** using **bracket notation**, just like the elements in lists. However, tuples _cannot be modified_, so you cannot assign a new value to an index in a tuple:
+
+```python
+# A tuple with 3 elements
+letter_triple = ('a','b','c')
+
+# Access with bracket notation
+print(letter_triple[0])  # 'a'
+
+# Can use slices as an index
+print(letter_triple[1:3])  # ('b','c'), a tuple
+
+# Cannot assign values to tuple elements
+letter_triple[0] = 'q'  # TypeError!
+```
+
+Tuples can be compared using _relational operators_ just like lists, and have the same "member-wise" comparison behavior described above. This makes it easy to order the immutable tuples just like you would order numbers or strings.
+
+Finally, tuples provide one additional useful feature. The Python interpreter uses tuples to perform **multiple assignments**, where you assign multiple values to multiple variables in a single statement. You have already been able to assign multiple, comma-separated values to a single _tuple_ variable (a process called **packing**). But Python also supports having a single sequential value (e.g., a _tuple_) be assigned to multiple, comma-separate variables (a process called **unpacking**)!
+
+```python
+# A tuple with 3 elements (omitting parentheses)
+a_triple = 1, 2, 3  # assign multiple values to single variable (packing)
+print(a_triple)  # (1, 2, 3)
+
+x, y, z = (1,2,3)  # assign single tuple value to multiple variables (unpacking)
+print(x)  # 1
+print(y)  # 2
+print(z)  # 3
+
+# The VALUE in this statement is evaluated as a tuple, and then is assigned to
+# multiple variables!
+a, b, c = x, y, z  # a=x; b=y; c=z
+
+# The same process can be used to swap values!
+a, b = b, a
+```
+
+This is mostly a useful shortcut (_syntactical sugar_), but is also used by some idiomatic Python constructions.
+
+
+## Resources {-}
+<div class="list-condensed">
+- [Lists (Severance)](http://openbookproject.net/thinkcs/python/english3e/lists.html)
+- [Lists (Sweigart)](https://automatetheboringstuff.com/chapter4/)
+- [Tuples (Downey)](https://books.trinket.io/pfe/10-tuples.html)
+- [Sequence Types (Python Docs)](https://docs.python.org/3/library/stdtypes.html#sequence-types-list-tuple-range)
+</div>

@@ -1,0 +1,115 @@
+cleaned-sonnets1.txt:239:  'Thy end is truth's and beauty's doom and date.'
+cleaned-sonnets1.txt:286:Be scorn'd, like old men of less truth than tongue,
+cleaned-sonnets1.txt:620:Take all my comfort of thy worth and truth;
+cleaned-sonnets1.txt:696:Where thou art forced to break a twofold truth:--
+cleaned-sonnets1.txt:817:  For truth proves thievish for a prize so dear.
+cleaned-sonnets1.txt:907:By that sweet ornament which truth doth give.
+cleaned-sonnets1.txt:919:  When that shall vade, by verse distills your truth.
+cleaned-sonnets1.txt:1018:Feeds on the rarities of nature's truth,
+cleaned-sonnets1.txt:1047:No shape so true, no truth of such account;
+cleaned-sonnets1.txt:1120:And simple truth miscall'd simplicity,
+cleaned-sonnets1.txt:1164:Uttering bare truth, even so as foes commend.
+cleaned-sonnets1.txt:1219:Than niggard truth would willingly impart:
+cleaned-sonnets1.txt:1627:To truths translated, and for true things deem'd.
+cleaned-sonnets1.txt:1707:For thy neglect of truth in beauty dy'd?
+cleaned-sonnets1.txt:1708:Both truth and beauty on my love depends;
+cleaned-sonnets1.txt:1712:Beauty no pencil, beauty's truth to lay;
+cleaned-sonnets1.txt:1863:Most true it is, that I have look'd on truth
+cleaned-sonnets1.txt:2327:To put fair truth upon so foul a face?
+cleaned-sonnets1.txt:2333:When my love swears that she is made of truth,
+cleaned-sonnets1.txt:2340:On both sides thus is simple truth suppressed:
+cleaned-sonnets1.txt:2498:At random from the truth vainly express'd;
+cleaned-sonnets1.txt:2581:Oaths of thy love, thy truth, thy constancy;
+cleaned-sonnets1.txt:2585:  To swear against the truth so foul a lie!
+cleaned_sonnets.txt:239:    'Thy end is truth's and beauty's doom and date.'
+cleaned_sonnets.txt:286:  Be scorn'd, like old men of less truth than tongue,
+cleaned_sonnets.txt:620:  Take all my comfort of thy worth and truth;
+cleaned_sonnets.txt:696:  Where thou art forced to break a twofold truth:--
+cleaned_sonnets.txt:817:    For truth proves thievish for a prize so dear.
+cleaned_sonnets.txt:907:  By that sweet ornament which truth doth give.
+cleaned_sonnets.txt:919:    When that shall vade, by verse distills your truth.
+cleaned_sonnets.txt:1018:  Feeds on the rarities of nature's truth,
+cleaned_sonnets.txt:1047:  No shape so true, no truth of such account;
+cleaned_sonnets.txt:1120:  And simple truth miscall'd simplicity,
+cleaned_sonnets.txt:1164:  Uttering bare truth, even so as foes commend.
+cleaned_sonnets.txt:1219:  Than niggard truth would willingly impart:
+cleaned_sonnets.txt:1627:  To truths translated, and for true things deem'd.
+cleaned_sonnets.txt:1707:  For thy neglect of truth in beauty dy'd?
+cleaned_sonnets.txt:1708:  Both truth and beauty on my love depends;
+cleaned_sonnets.txt:1712:  Beauty no pencil, beauty's truth to lay;
+cleaned_sonnets.txt:1863:  Most true it is, that I have look'd on truth
+cleaned_sonnets.txt:2327:  To put fair truth upon so foul a face?
+cleaned_sonnets.txt:2333:  When my love swears that she is made of truth,
+cleaned_sonnets.txt:2340:  On both sides thus is simple truth suppressed:
+cleaned_sonnets.txt:2498:  At random from the truth vainly express'd;
+cleaned_sonnets.txt:2581:  Oaths of thy love, thy truth, thy constancy;
+cleaned_sonnets.txt:2585:    To swear against the truth so foul a lie!
+cleaned_sonnets3.txt:153:  'Thy end is truth's and beauty's doom and date.'
+cleaned_sonnets3.txt:200:Be scorn'd, like old men of less truth than tongue,
+cleaned_sonnets3.txt:534:Take all my comfort of thy worth and truth;
+cleaned_sonnets3.txt:610:Where thou art forced to break a twofold truth:--
+cleaned_sonnets3.txt:731:  For truth proves thievish for a prize so dear.
+cleaned_sonnets3.txt:821:By that sweet ornament which truth doth give.
+cleaned_sonnets3.txt:833:  When that shall vade, by verse distills your truth.
+cleaned_sonnets3.txt:932:Feeds on the rarities of nature's truth,
+cleaned_sonnets3.txt:961:No shape so true, no truth of such account;
+cleaned_sonnets3.txt:1034:And simple truth miscall'd simplicity,
+cleaned_sonnets3.txt:1078:Uttering bare truth, even so as foes commend.
+cleaned_sonnets3.txt:1133:Than niggard truth would willingly impart:
+cleaned_sonnets3.txt:1541:To truths translated, and for true things deem'd.
+cleaned_sonnets5.txt:21:For thy neglect of truth in beauty dy'd?
+cleaned_sonnets5.txt:22:Both truth and beauty on my love depends;
+cleaned_sonnets5.txt:26:Beauty no pencil, beauty's truth to lay;
+cleaned_sonnets5.txt:177:Most true it is, that I have look'd on truth
+cleaned_sonnets7.txt:184:To put fair truth upon so foul a face?
+cleaned_sonnets7.txt:190:When my love swears that she is made of truth,
+cleaned_sonnets7.txt:197:On both sides thus is simple truth suppressed:
+cleaned_sonnets8.txt:134:At random from the truth vainly express'd;
+cleaned_sonnets8.txt:217:Oaths of thy love, thy truth, thy constancy;
+cleaned_sonnets8.txt:221:  To swear against the truth so foul a lie!
+sonnets.txt:281:    'Thy end is truth's and beauty's doom and date.'
+sonnets.txt:328:  Be scorn'd, like old men of less truth than tongue,
+sonnets.txt:662:  Take all my comfort of thy worth and truth;
+sonnets.txt:738:  Where thou art forced to break a twofold truth:--
+sonnets.txt:859:    For truth proves thievish for a prize so dear.
+sonnets.txt:949:  By that sweet ornament which truth doth give.
+sonnets.txt:961:    When that shall vade, by verse distills your truth.
+sonnets.txt:1060:  Feeds on the rarities of nature's truth,
+sonnets.txt:1089:  No shape so true, no truth of such account;
+sonnets.txt:1162:  And simple truth miscall'd simplicity,
+sonnets.txt:1206:  Uttering bare truth, even so as foes commend.
+sonnets.txt:1261:  Than niggard truth would willingly impart:
+sonnets.txt:1669:  To truths translated, and for true things deem'd.
+sonnets.txt:1749:  For thy neglect of truth in beauty dy'd?
+sonnets.txt:1750:  Both truth and beauty on my love depends;
+sonnets.txt:1754:  Beauty no pencil, beauty's truth to lay;
+sonnets.txt:1905:  Most true it is, that I have look'd on truth
+sonnets.txt:2369:  To put fair truth upon so foul a face?
+sonnets.txt:2375:  When my love swears that she is made of truth,
+sonnets.txt:2382:  On both sides thus is simple truth suppressed:
+sonnets.txt:2540:  At random from the truth vainly express'd;
+sonnets.txt:2623:  Oaths of thy love, thy truth, thy constancy;
+sonnets.txt:2627:    To swear against the truth so foul a lie!
+sonnets3_ai.txt:17:  'Thy end is truth's and beauty's doom and date.'
+sonnets3_al.txt:13:Be scorn'd, like old men of less truth than tongue,
+sonnets3_bf.txt:7:Take all my comfort of thy worth and truth;
+sonnets3_bj.txt:15:Where thou art forced to break a twofold truth:--
+sonnets3_bq.txt:17:  For truth proves thievish for a prize so dear.
+sonnets3_bw.txt:5:By that sweet ornament which truth doth give.
+sonnets3_bw.txt:17:  When that shall vade, by verse distills your truth.
+sonnets3_cc.txt:14:Feeds on the rarities of nature's truth,
+sonnets3_ce.txt:9:No shape so true, no truth of such account;
+sonnets3_ci.txt:14:And simple truth miscall'd simplicity,
+sonnets3_cl.txt:7:Uttering bare truth, even so as foes commend.
+sonnets3_co.txt:11:Than niggard truth would willingly impart:
+sonnets3_dm.txt:11:To truths translated, and for true things deem'd.
+sonnets5_ab.txt:4:For thy neglect of truth in beauty dy'd?
+sonnets5_ab.txt:5:Both truth and beauty on my love depends;
+sonnets5_ab.txt:9:Beauty no pencil, beauty's truth to lay;
+sonnets5_ak.txt:7:Most true it is, that I have look'd on truth
+sonnets7_ak.txt:14:To put fair truth upon so foul a face?
+sonnets7_al.txt:3:When my love swears that she is made of truth,
+sonnets7_al.txt:10:On both sides thus is simple truth suppressed:
+sonnets8_ah.txt:15:At random from the truth vainly express'd;
+sonnets8_am.txt:13:Oaths of thy love, thy truth, thy constancy;
+sonnets8_am.txt:17:  To swear against the truth so foul a lie!
