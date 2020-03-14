@@ -1,5 +1,5 @@
 # Python-Programming-511
- Python-Programming-511 probelm sets
+ Python-Programming-511 problem sets
  
  
 Navigate programming and scripting environments
